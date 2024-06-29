@@ -1,6 +1,5 @@
 +++
 date = "2024-06-29"
-featured = true
 title = "Playing with built-ins: map()"
 description = "How map() makes it easier to transform values through iterables."
 slug = "python-map-transforming-values"
