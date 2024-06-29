@@ -16,13 +16,17 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   parent = "Annotations"
-  name = "booksNotes"
+  name = "books Notes"
   url = ""
 [[main]]
   parent = "Annotations"
   name = "reflections"
   url = ""
 
+[[main]]
+  parent = "Annotations"
+  name = "Awesome quotes"
+  url = "post/saved-quotes/"
 
 # social menu links
 

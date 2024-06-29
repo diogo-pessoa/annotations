@@ -89,7 +89,7 @@ enforceLightMode = false
 
 # Customize Sidebar Disclaimer Text
 sidebardisclaimer = true
-disclaimerText = "This whole blog was inspired by Mr. Feynman's Technique: Which involves breaking down a complex topic into its simplest components and explaining it in a way that anyone can understand. Everything written here is an exploration, bound to be often reviewed."
+disclaimerText = "This whole space was inspired by Mr. Feynman's quote: 'If you can't explain something in simple terms, you don't understand it.'. Everything written here is an exploration, it's about learning."
 
 # Text for the languages menu.
 languageMenuName = "🌐"
