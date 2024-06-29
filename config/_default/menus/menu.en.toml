@@ -1,0 +1,51 @@
+#[[main]]
+#  name = "Home"
+#  url = ""
+#  weight = -110
+
+[[main]]
+  parent = "Technical writing"
+  name = "Python"
+  urtl = "/tags/python/"
+
+[[main]]
+  parent = "Technical writing"
+  name = "System Thinking"
+  url = ""
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  parent = "Annotations"
+  name = "booksNotes"
+  url = ""
+[[main]]
+  parent = "Annotations"
+  name = "reflections"
+  url = ""
+
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://diogo-pessoa.github.io/"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
