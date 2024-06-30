@@ -1,27 +1,22 @@
-#[[main]]
-#  name = "Home"
-#  url = ""
-#  weight = -110
-
 [[main]]
   parent = "Technical writing"
   name = "Python"
-  urtl = "/tags/python/"
+  url = "/tags/python/"
 
 [[main]]
   parent = "Technical writing"
   name = "System Thinking"
-  url = ""
+  url = "/tags/systemthinking/"
 
 # Submenus are done this way: parent -> identifier
 [[main]]
   parent = "Annotations"
-  name = "books Notes"
-  url = ""
+  name = "books Insights"
+  url = "/tags/book-insights/"
 [[main]]
   parent = "Annotations"
   name = "reflections"
-  url = ""
+  url = "/categories/reflections/"
 
 [[main]]
   parent = "Annotations"
