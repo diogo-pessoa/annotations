@@ -7,15 +7,15 @@ largeTwitterCard = false # set to true if you want to show a large twitter card 
 introDescription = "DevOps Engineer & DataNerd. Avid learner and curious by nature."
 introURL = "https://diogo-pessoa.github.io/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 description = "A collection of writings to process my thoughts, learning and experience." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-keywords = ["SystemThinking", "BookSummaries", "TechnicalWriting", "reflections"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+keywords = ["SystemThinking", "BookInsights", "TechnicalWriting", "reflections"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = ""
+ga_analytics = "G-S9DTL6G7YC"
 
 # Google tag manager
-google_tag_manager_id = "G-S9DTL6G7YC"
+google_tag_manager_id = ""
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
@@ -98,7 +98,7 @@ languageMenuName = "🌐"
 # titleSeparator = "|"
 
 # Enable or disable comments globally. Default to true.
-# comments = false
+comments = false
 
 # Enable or disable Utterances (https://github.com/utterance/utterances) Github Issue-Based Commenting
 # utterances = true  # Run the utterances script in the single.html layout to load https://utteranc.es comments
@@ -108,7 +108,7 @@ languageMenuName = "🌐"
 # utterancesIssueTerm = "pathname" # Default: pathname
 
 # Maximum number of recent posts. (default: 8)
-numberOfRecentPosts = 3
+numberOfRecentPosts = 2
 
 # Maximum number of featured posts. (default: 8)
 # numberOfFeaturedPosts = 8
