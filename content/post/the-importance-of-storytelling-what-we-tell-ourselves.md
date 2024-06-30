@@ -11,7 +11,7 @@ usePageBundles: false # Set to true to group assets like images in the same fold
 #featureImageAlt: 'Description of image' # Alternative text for featured image.
 #featureImageCap: 'This is the featured image.' # Caption (optional).
 #thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
+#shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 #figurePositionShow: true # Override global value for showing the figure label.
@@ -26,14 +26,10 @@ comment: false # Disable comment if false.
 
 ## References
 
-1. Brown, D.,
-   2016. [Happy](https://www.goodreads.com/book/show/58526027-happy-why-more-or-less-everything-is-absolutely-fine).
-   Random House.
-2. Harari, Y.N.,
-   2018. [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?ref=nav_sb_ss_3_13).
-   Random House.
-3. Harari, Y.N.,
-   2017. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ref=nav_sb_ss_1_13),
-   Yuval Noah Harari, Harvill Secker, London, 2014.
+1. Brown, D., 2016. [Happy](https://www.goodreads.com/book/show/58526027-happy-why-more-or-less-everything-is-absolutely-fine). Random House.
+2. Harari, Y.N., 2018. [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?ref=nav_sb_ss_3_13).
+          Random House.
+3. Harari, Y.N., 2017. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?ref=nav_sb_ss_1_13),
+          Yuval Noah Harari, Harvill Secker, London, 2014.
 
 
