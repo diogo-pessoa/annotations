@@ -1,7 +1,7 @@
 ---
 title: "Python Matrix Manipulation" # Title of the blog post.
 date: 2024-07-03
-description: ""Python Matrix Manipulation exercises and learning from Prof. Gilbert Strang OCW course Introduction to Linear Algebra"
+description: "Python Matrix Manipulation exercises and learning from Prof. Gilbert Strang OCW course Introduction to Linear Algebra"
 featured: false
 draft: false
 toc: true
