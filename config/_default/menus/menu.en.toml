@@ -23,6 +23,11 @@
   name = "Awesome quotes"
   url = "post/saved-quotes/"
 
+[[main]]
+  parent = "Annotations"
+  name = "Favorite books"
+  url = "post/my-favorite-books/"
+
 # social menu links
 
 [[social]]

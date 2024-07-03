@@ -8,6 +8,7 @@ categories:
   - Reflections
 tags:
   - quotes
+  - personal-lists
 comment: false # Disable comment if false.
 ---
 

@@ -22,6 +22,10 @@
   name = "reflexões"
   url = "/categories/reflections/"
 
+[[main]]
+  parent = "Anotações"
+  name = "Livros Favoritos"
+  url = "post/my-favorite-books/"
 
 # social menu links
 
