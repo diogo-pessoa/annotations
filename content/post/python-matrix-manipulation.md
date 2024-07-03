@@ -1,5 +1,5 @@
 ---
-title: "Python Matrix Manipulation" # Title of the blog post.
+title: "Python Matrix Manipulation"
 date: 2024-07-03
 description: "Python Matrix Manipulation exercises from OCW Introduction to Linear Algebra"
 featured: false
@@ -7,11 +7,12 @@ draft: false
 toc: true
 # menu: main
 usePageBundles: false
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: true # Override global value for showing the figure label.
+codeMaxLines: 10 
+codeLineNumbers: false 
+figurePositionShow: true 
 categories:
-  - [ "coding", "Linear Algebra" ]
+  - "coding" 
+  - "Linear Algebra"
 tags:
   - Python
   - Matrix
@@ -207,5 +208,5 @@ print(result)
 ## References
 
 1. [Matrix (Wikipedia)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-2. [Introduction to Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+2. [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
 3. [OCW Introduction to Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
