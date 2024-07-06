@@ -62,6 +62,7 @@ highlights and notes from each read.
 ### Philosophy
 
 - **_Zen and the Art of Motorcycle Maintenance_** - Robert M. Pirsig
+  - [Annotations series](/series/zen-motorcycle-maintenance-annotations/) 
 - **_The Theory of Knowledge, third edition_** - Nicholas Alchin
 - **_Anti Fragile_** - Nassim Nicholas Taleb
 - **_Skin in the Game_** - Nassim Nicholas Taleb
@@ -86,6 +87,10 @@ highlights and notes from each read.
 - **_The Myth of Normal_** - Gabor Maté
 - **_Scattered Minds_** - Gabor Maté
 
+#### Pyschology and Neuroscience
+
+- **_Why Zebras don't get Ulcers_** - Robert M. Sapolsky `(In Progress`
+
 #### Social Psychology
 
 - **_The status Game_** - Will Storr
@@ -94,6 +99,7 @@ highlights and notes from each read.
 - **_The Righteous Mind_** - Jonathan Haidt
 - **_The cancelling of the American Mind_** - Greg Lukianoff, Rikki Schlott
 - **The Madness of Crowds** - Douglas Murray
+- **_Thinking In Systems: A Primer_** - Donella H. Meadows
 
 ### History
 
@@ -205,6 +211,7 @@ sweat_smile:
 - **_The mindful Athlete_** - George Mumford
 - **_Why we sleep_** - Matthew Walker
 - **_Caffeine_** - Michael Pollan
+- **_Built to Move_** - Juliet Starrett, Kelly Starrett
 
 #### Money & Finance (self-help)
 
@@ -281,6 +288,8 @@ The Leadership Handbook of Silicon Valley's Bill Campbell_** - Eric Schmidt, Jon
 ---
 ## Want to read
 
-- **_Walden_** - Henry David Thoreau
+- **_Processing-Acquisition-Reference-Bradford-Book_** - Edward A. Gibson `(Not started)`
+- **_Walden_** - Henry David Thoreau `(Not started)`
 - **_How to Lie with Statistics_** - Darrell Huff `(Not started)`
 - **_The Art of Resilience_** - Ross Edgley `(Not started)`
+- **_Basic Economics A common Sense guide to the Economy_** - Thomas Sowell `(Not started)`

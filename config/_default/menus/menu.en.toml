@@ -20,7 +20,7 @@
 
 [[main]]
   parent = "Annotations"
-  name = "Awesome quotes"
+  name = "saved quotes"
   url = "post/saved-quotes/"
 
 [[main]]

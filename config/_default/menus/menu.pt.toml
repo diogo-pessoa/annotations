@@ -27,6 +27,11 @@
   name = "Livros Favoritos"
   url = "post/my-favorite-books/"
 
+[[main]]
+  parent = "Anotações"
+  name = "citações favoritas"
+  url = "post/saved-quotes/"
+
 # social menu links
 
 [[social]]
