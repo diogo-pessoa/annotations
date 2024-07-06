@@ -24,3 +24,4 @@ go.work.sum
 /public/
 .idea/
 .hugo_build.lock
+.DS_Store
