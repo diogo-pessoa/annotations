@@ -23,7 +23,6 @@ uma rápida. Um resumo como referência quando/se usar o `mapa()`.
 
 {{% notice tip "Tip" %}}
 
-- [Convenções usadas](https://diogo-pessoa.github.io/posts/conventions)
 - [a implementação do código](https://github.com/diogo-pessoa/coding-exercises/blob/main/functional-programming/MapTransform.py)
   {{% /notice %}}
 
