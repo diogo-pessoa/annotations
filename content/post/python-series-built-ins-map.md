@@ -24,7 +24,6 @@ summary as reference when/if using the `map()`.
 
 {{% notice tip "Tip" %}}
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My code implementation](https://github.com/diogo-pessoa/coding-exercises/blob/main/functional-programming/MapTransform.py)
   {{% /notice %}}
 
