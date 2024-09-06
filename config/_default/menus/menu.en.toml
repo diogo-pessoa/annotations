@@ -8,6 +8,12 @@
   name = "System Thinking"
   url = "/tags/systemthinking/"
 
+[[main]]
+parent = "Technical writing"
+  name = "CCSP Exam Prep"
+  url = "/tags/ccsp/"
+
+
 # Submenus are done this way: parent -> identifier
 [[main]]
   parent = "Annotations"
