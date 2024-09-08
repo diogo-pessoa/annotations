@@ -4,7 +4,7 @@ enableSearch = true
 # socials
 twitter = ""
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "DevOps Engineer & DataNerd. Avid learner and curious by nature."
+introDescription = "<i>Eu prefiro ser essa metamorfose ambulante...<br>Eu quero dizer agora o oposto do que eu disse antes<br>Eu prefiro ser essa metamorfose ambulante<br>Do que ter aquela velha opinião formada sobre tudo<br>...É chato chegar a um objetivo num instante<br>Eu quero viver nessa metamorfose ambulante</i> — Raul Seixas"
 introURL = "https://diogo-pessoa.github.io/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 description = "A collection of writings to process my thoughts, learning and experience." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 keywords = ["SystemThinking", "BookInsights", "TechnicalWriting", "reflections"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
@@ -87,9 +87,9 @@ enforceLightMode = false
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
 # footerLogo = "icons/copy.svg"
 
-# Customize Sidebar Disclaimer Text
+## Customize Sidebar Disclaimer Text
 sidebardisclaimer = true
-disclaimerText = "This whole space was inspired by Mr. Feynman's quote: 'If you can't explain something in simple terms, you don't understand it.'. Everything written here is an exploration, it's about learning."
+disclaimerText = "Opinions are my own. These are drafts and short-hand notes, meant to be capture intriguing ideas or comments from whatever I happen to be reading/studying."
 
 # Text for the languages menu.
 languageMenuName = "🌐"
