@@ -211,3 +211,7 @@ potential cyber threats. However, penetration testing should be complemented by 
 monitoring, regular security assessments, and a strong security culture to maintain a resilient
 defense against evolving threats.
 
+## References
+
+1.  CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition. p. 176
+2. Need to find other links used
