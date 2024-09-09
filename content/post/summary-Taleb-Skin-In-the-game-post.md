@@ -48,7 +48,8 @@ their own money)._
 
 ## Thinking in Systems
 
-`(Note to add correlation)` - reminds me of Donella meadows, (2008) thinking in systems[2](#references).
+`(Note to add correlation)` - reminds me of Donella meadows, (2008) thinking in
+systems[2](#references).
 
 > Systems learn at the collective level by the mechanism of selection: by eliminating those elements
 > that reduce the fitness of the whole, provided these have skin in the game.
@@ -71,6 +72,10 @@ their own money)._
 2. Systems Thinking Book Sale - The Donella Meadows Project (2017) The Academy for Systems Change.
    Available at: https://donellameadows.org/systems-thinking-book-sale/ (Accessed: 9 September
    2024).
+3. Taleb, N. N. (2010) The bed of Procrustes: Philosophical and practical aphorisms. New York, NY:
+   Random House.
+
+
 
 
 
