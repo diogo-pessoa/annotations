@@ -3,7 +3,7 @@ title: "CCSP-Glossary"
 date: 2024-09-02T16:32:31+01:00 # Date of post creation.
 description: "Acronyms, terms with brief descriptions"
 featured: true
-draft: false 
+draft: false
 toc: true
 categories:
   - cybersecurity
@@ -32,10 +32,11 @@ series:
 * **BC** Business Continuity
 * **DR** Disaster Recovery
 * **DAM** - Digital Asset Management
+* **SAN** Storage Area Network
 
 * **CCSK** Certificate of Cloud Security Knowledge
 * **CSA**  Cloud Security Alliance
-* **CCM** Cloud Controls Matrix 
+* **CCM** Cloud Controls Matrix
 * **HVAC** Heating, Ventilation, and Air Conditioning
 * **PKI**  Public Key Infrastructure
 * **PCI** Payment Card Information
@@ -53,11 +54,10 @@ series:
 
 * **PASTA** Process for Attack Simulation and Threat Analysis
 * **NIST** National Institute of Standards and Technology
-* **STAR** Security, Trust, Assurance, and Risk 
+* **STAR** Security, Trust, Assurance, and Risk
 * **CIA** triad: confidentiality, integrity, and availability.
-* **ANF** Application Normative Framework 
-* **ONF** Organization Normative Framework 
-
+* **ANF** Application Normative Framework
+* **ONF** Organization Normative Framework
 
 Principal Engineering Manager - Microsoft 365 - 1735363
 
@@ -159,3 +159,13 @@ Principal Engineering Manager - Microsoft 365 - 1735363
   to conduct an attack by exploiting unvalidated redirects and forwards, it is often in conjunction
   with a social engineering/phishing aspect. Users trained to recognize social engineering/phishing
   indicators might be able to avoid susceptibility to these attacks.
+
+`Revise`
+
+**cloud carrier** is “an intermediary that provides connectivity and transport of cloud services
+from Cloud Providers to Cloud Consumers.”
+
+The Diffie-Hellman key exchange process is designed to allow two parties to create a shared secret (
+symmetric key) over an untrusted medium. RADIUS is an outmoded access control service for remote
+users. RSA is an encryption scheme. TACACS is a network access protocol set used through a
+centralized server.
