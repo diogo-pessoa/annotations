@@ -16,11 +16,14 @@ codeMaxLines: 10 # Override global value for how many lines within a code block 
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
 categories:
-  - Technology
+  - cybersecurity
 tags:
-  - Tag_name1
-  - Tag_name2
-# comment: false # Disable comment if false.
+  - ccsp
+  - exam-prep
+  - cloud
+  - glossary
+series:
+  - ccsp-exam-prep
 ---
 
 **Risk Assessment** is a systematic process used to identify, evaluate, and prioritize risks to an organization’s assets, operations, or objectives. It is a key component of risk management and helps organizations understand the potential threats they face, their likelihood, and the potential impact on the organization. The goal of risk assessment is to determine the risk level and guide decision-making on how to mitigate, transfer, accept, or avoid the risk.

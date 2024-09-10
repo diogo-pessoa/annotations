@@ -10,10 +10,14 @@ codeMaxLines: 10
 codeLineNumbers: false 
 figurePositionShow: true 
 categories:
-  - Technology
+  - cybersecurity
 tags:
-  - Tag_name1
-  - Tag_name2
+  - ccsp
+  - exam-prep
+  - cloud
+  - glossary
+series:
+  - ccsp-exam-prep
 
 ---
 
