@@ -1,23 +1,23 @@
 ---
-title: "CCSP LegalCompliance" # Title of the blog post.
-date: 2024-09-07T16:49:34+01:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-# menu: main
-usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
-featureImageAlt: 'Description of image' # Alternative text for featured image.
-featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: true # Override global value for showing the figure label.
+title: "CCSP LegalCompliance" 
+date: 2024-09-07T16:49:34+01:00 
+draft: false 
+toc: false 
+
+codeMaxLines: 10 
+codeLineNumbers: false 
+figurePositionShow: true 
 categories:
   - cybersecurity
+  - CCSP
 tags:
+  - ccsp
+  - exam-guide
+  - exam-prep
+  - cloud
+  - Compliance
+series:
+  - ccsp-exam-prep
   - ccsp
   - exam-prep
   - cloud
@@ -340,3 +340,94 @@ specifies the security requirements for cryptographic modules used to protect se
 unclassified information. Developed by the National Institute of Standards and Technology (NIST),
 FIPS 140-2 is widely recognized as a benchmark for cryptographic security and is often mandated for
 government agencies, contractors, and organizations handling sensitive data.
+
+### SOX
+
+The Sarbanes-Oxley Act (SOX) is a U.S. federal law that was enacted in 2002 to protect investors by
+improving the accuracy and reliability of corporate disclosures in financial statements. It was
+passed in response to several major corporate and accounting scandals, such as those involving
+Enron, WorldCom, and Tyco, which shook public confidence in the U.S. securities markets.
+
+### SOC
+
+SOC (System and Organization Controls) reports are a set of standards designed by the American
+Institute of CPAs (AICPA)
+
+#### SOC 1: Financial Reporting
+
+**Purpose:** SOC 1 reports focus on internal controls over financial reporting (ICFR). They are
+typically used by service organizations that provide services which could impact a client's
+financial reporting. These reports are primarily intended for the clients (user entities) and their
+auditors.
+**Key Users:** Financial auditors, regulatory authorities, and clients concerned with financial
+reporting.
+
+###### SOC 1 Type 1:
+
+**Scope**: Describes a service organization’s system and the suitability of the design of controls
+as of
+a specific point in time (e.g., the design of controls on December 31, 2023).
+**Objective**: To determine whether the system's design is appropriate to achieve the control
+objectives.
+**Usage**: Typically used for initial reporting or when a client is primarily interested in knowing
+if
+the controls are adequately designed.
+
+###### SOC 1 Type 2:
+
+**Scope**: Includes everything in a Type 1 report but also assesses the operational effectiveness of
+the
+controls over a period of time (e.g., controls tested from January 1 to December 31, 2023).
+**Objective**: To provide a higher level of assurance by demonstrating that the controls are not
+only
+designed correctly but are also operating effectively over time.
+**Usage**: Preferred by clients and auditors for its more comprehensive evaluation. It’s useful when
+ongoing assurance of control effectiveness is necessary.
+
+### SOC 2: Security, Availability, Processing Integrity, Confidentiality, and Privacy
+
+**Purpose**: SOC 2 reports are designed to assess a service organization’s controls relevant to
+security, availability, processing integrity, confidentiality, and privacy. These reports are often
+used by companies that handle sensitive data or provide IT services.
+**Key Users**: Management, customers, and stakeholders interested in understanding the
+organization’s
+controls over data security and privacy.
+
+##### SOC 2 Type 1:
+
+**Scope**: Describes a service organization’s system and the suitability of the design of controls
+related to the trust service criteria as of a specific point in time.
+**Objective**: To assess whether the controls are suitably designed to meet the trust service
+criteria.
+**Usage:** Typically used when a client wants to verify that proper controls are in place at a
+specific
+point in time, especially for new service providers or systems.
+
+##### SOC 2 Type 2:
+
+**Scope**: Includes everything in a Type 1 report but also tests the operational effectiveness of
+those
+controls over a period of time.
+Objective: To provide assurance that the controls not only meet the trust service criteria but are
+also operating effectively over the testing period.
+**Usage**: Often required for ongoing relationships, particularly when clients or regulators need
+assurance that data security and privacy controls are consistently effective.
+
+#### SOC 3: General Use Report
+
+**Purpose**: SOC 3 reports cover the same information as SOC 2 but are intended for a general
+audience.
+They do not provide the same level of detail as SOC 2 reports but are suitable for marketing
+purposes and for sharing with a broader audience, such as customers and stakeholders who do not need
+the detailed information included in a SOC 2 report.
+**Key Users**: General public, customers, and stakeholders interested in a high-level assurance of
+security and privacy controls.
+
+##### SOC 3:
+
+**Scope**: Provides a summary of the SOC 2 report without the detailed testing and results.
+**Objective**: To provide general assurance to a wide audience that the service organization has met
+the
+necessary trust service criteria.
+**Usage**: Ideal for organizations looking to publicly demonstrate their commitment to security and
+privacy without disclosing sensitive information.

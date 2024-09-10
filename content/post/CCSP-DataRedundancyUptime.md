@@ -54,10 +54,25 @@ operational even in the event of a component failure or planned maintenance.|
   network, and security.
 - Multiple independent distribution paths for power and cooling that are simultaneously active.
 
+#### Cost-Benefit Perspective
+
+* Cost: Highest cost due to extensive infrastructure investment, redundancy, and global failover
+  systems.
+* Benefit: Justified for applications where downtime is extremely costly or detrimental.
+
+#### When to Use
+
+* Use for mission-critical applications (e.g., financial services, healthcare systems, emergency
+  services).
+* Appropriate for applications that support critical business operations with zero tolerance for
+  downtime.
+* Ideal for organizations where downtime could result in significant financial loss, reputational
+  damage, or regulatory penalties.
+
 ### Tier 3 (III)
 
-| **Tier** | **uptime (%)**     | **Downtime**                          | **Redundancy** |
-|----------|--------------------|---------------------------------------|----------------|
+| **Tier** | **uptime (%)**     | **Downtime**                              | **Redundancy** |
+|----------|--------------------|-------------------------------------------|----------------|
 | III      | **99.982% Uptime** | **Up to 1.6 hours** of downtime per year. | **N+1**        |
 
 #### Redundancy
@@ -71,10 +86,24 @@ multiple power and cooling distribution paths, but only one is active at a time.
   down the data center.
 - Dual-powered equipment and multiple independent distribution paths for power and cooling.
 
+#### Cost-Benefit Perspective
+
+*Cost: Higher cost due to more robust infrastructure, failover capabilities, and multiple data
+centers.
+
+* Benefit: Ideal for important customer-facing applications that require consistent availability.
+
+#### When to Use:
+
+* Suitable for e-commerce platforms, SaaS applications, or any services directly impacting customer
+  experience.
+* Use for business-critical systems that need to remain online with minimal downtime.
+* Appropriate for applications with moderate to high impact due to downtime (e.g., CRM, ERP).
+
 ### Tier 2 (II)
 
-| **Tier** | **uptime (%)**     | **Downtime**                           | **Redundancy** |
-|----------|--------------------|----------------------------------------|----------------|
+| **Tier** | **uptime (%)**     | **Downtime**                               | **Redundancy** |
+|----------|--------------------|--------------------------------------------|----------------|
 | II       | **99.671% Uptime** | **Up to 28.8 hours** of downtime per year. | **N+1**        |
 
 #### Redundancy
@@ -87,6 +116,18 @@ and cooling distribution.
 - Partial redundancy for power and cooling components (e.g., backup generators, redundant cooling
   units).
 - No redundant paths for power or cooling distribution.
+
+#### Cost-Benefit Perspective
+
+* Cost: Moderately priced due to some redundancy and backup capabilities.
+* Benefit: Suitable for less critical business applications where occasional downtime is acceptable.
+
+#### When to Use:
+
+* Use for small to medium-sized businesses or applications where minimal downtime is tolerable.
+* Suitable for internal business applications or systems with manageable downtime.
+* Ideal for non-mission-critical workloads like document management, HR systems, or scheduling
+  tools.
 
 ### Tier 1 (I)
 
@@ -103,6 +144,17 @@ backup. Any failure or planned maintenance will result in downtime.
 
 - Single power path and cooling path.
 - Non-redundant capacity components (e.g., a single power source, no backup generators).
+
+#### Cost-Benefit Perspective
+
+* Cost: Lowest cost due to minimal infrastructure and redundancy.
+* Benefit: Appropriate when cost is a primary concern, and downtime has little impact on operations.
+
+#### When to Use:
+
+* Ideal for development or testing environments.
+* Suitable for internal tools or non-customer-facing applications.
+* Use for backup or archival services where continuous access isn't crucial.
 
 ## Conclusion
 

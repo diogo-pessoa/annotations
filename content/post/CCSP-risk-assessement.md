@@ -1,29 +1,19 @@
 ---
-title: "CCSP Risk Assessement" # Title of the blog post.
-date: 2024-09-07T18:46:42+01:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-# menu: main
-usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
-featureImageAlt: 'Description of image' # Alternative text for featured image.
-featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: true # Override global value for showing the figure label.
+title: "CCSP Risk Assessement" 
+date: 2024-09-07T18:46:42+01:00 
+draft: false 
+toc: false 
+
 categories:
   - cybersecurity
+  
 tags:
   - ccsp
-  - exam-prep
+  - exam-guide
   - cloud
-  - glossary
 series:
   - ccsp-exam-prep
+
 ---
 
 **Risk Assessment** is a systematic process used to identify, evaluate, and prioritize risks to an organization’s assets, operations, or objectives. It is a key component of risk management and helps organizations understand the potential threats they face, their likelihood, and the potential impact on the organization. The goal of risk assessment is to determine the risk level and guide decision-making on how to mitigate, transfer, accept, or avoid the risk.

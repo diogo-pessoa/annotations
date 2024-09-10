@@ -58,9 +58,6 @@ series:
 * **ANF** Application Normative Framework 
 * **ONF** Organization Normative Framework 
 
-
-Principal Engineering Manager - Microsoft 365 - 1735363
-
 * **BIA** Businness Impact Analysis
 * **TCO** Total cost of ownership
 * **ROI**  Return On Investment
