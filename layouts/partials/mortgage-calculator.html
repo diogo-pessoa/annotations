@@ -1,0 +1,29 @@
+<div id="mortgage-calculator">
+    <h3>Mortgage Calculator</h3>
+    <label for="principal">Loan Amount ($):</label>
+    <input type="number" id="principal"/>
+    <label for="interest">Interest Rate (%):</label>
+    <input type="number" id="interest" step="0.01"/>
+    <label for="years">Loan Term (Years):</label>
+    <input type="number" id="years"/>
+    <button onclick="calculateMortgage()">Calculate</button>
+    <p id="result"></p>
+</div>
+
+
+<script>
+    function calculateMortgage() {
+        const principal = parseFloat(document.getElementById("principal").value);
+        const interest = parseFloat(document.getElementById("interest").value) / 100 / 12;
+        const payments = parseFloat(document.getElementById("years").value) * 12;
+
+        const x = Math.pow(1 + interest, payments);
+        const monthly = (principal * x * interest) / (x - 1);
+
+        if (!isNaN(monthly) && (monthly !== Infinity)) {
+            document.getElementById("result").innerText = `Monthly Payment: $${monthly.toFixed(2)}`;
+        } else {
+            document.getElementById("result").innerText = "Please enter valid values.";
+        }
+    }
+</script>
