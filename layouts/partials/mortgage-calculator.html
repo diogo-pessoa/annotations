@@ -43,7 +43,7 @@
         const totalPayments = parseFloat(document.getElementById("years").value) * 12;
         const fixedPeriod = parseFloat(document.getElementById("fixedPeriod").value) * 12;
         let lumpSum = parseFloat(document.getElementById("lumpSum").value);
-        const lumpSumYear = parseFloat(document.getElementById("lumpSumYear").value) * 12;
+        const lumpSumMonth = parseFloat(document.getElementById("lumpSumYear").value) * 12;
 
         // Calculate the monthly payment for the fixed rate period
         const xFixed = Math.pow(1 + fixedInterest, totalPayments);
@@ -52,44 +52,67 @@
         let remainingPrincipal = principal;
         let interestPaidDuringFixedRate = 0;
 
-        // Calculate the amount left after the fixed rate period
+        // Calculate total interest without lump sum payment
+        let remainingPrincipalWithoutLumpSum = principal;
+        let interestPaidFixedWithoutLump = 0;
+        let interestPaidVariableWithoutLump = 0;
+
+        // Interest calculation for both fixed rate period with and without lump sum
         for (let i = 0; i < fixedPeriod; i++) {
             const interestPayment = remainingPrincipal * fixedInterest;
             const principalPayment = monthlyFixed - interestPayment;
 
+            const interestPaymentWithoutLump = remainingPrincipalWithoutLumpSum * fixedInterest;
+            const principalPaymentWithoutLump = monthlyFixed - interestPaymentWithoutLump;
+
             // Apply lump sum payment if it falls within the fixed rate period
-            if (i === lumpSumYear) {
+            if (i === lumpSumMonth) {
                 remainingPrincipal -= lumpSum;
+                remainingPrincipalWithoutLumpSum -= lumpSum;
             }
 
             // Only half of each payment goes to reducing the loan owed
             remainingPrincipal -= principalPayment / 2;
             interestPaidDuringFixedRate += interestPayment;
+
+            // Interest calculation without lump sum
+            remainingPrincipalWithoutLumpSum -= principalPaymentWithoutLump / 2;
+            interestPaidFixedWithoutLump += interestPaymentWithoutLump;
         }
 
-        // Check and correct the remaining principal after fixed-rate period
+        // Calculate the remaining loan after the fixed rate period
         remainingPrincipal = Math.max(remainingPrincipal, 0);
+        remainingPrincipalWithoutLumpSum = Math.max(remainingPrincipalWithoutLumpSum, 0);
 
         // Calculate the monthly payment for the remaining loan period at the variable rate
         const remainingPayments = totalPayments - fixedPeriod;
         const xVariable = Math.pow(1 + variableInterest, remainingPayments);
         const monthlyVariable = (remainingPrincipal * xVariable * variableInterest) / (xVariable - 1);
+        const monthlyVariableWithoutLump = (remainingPrincipalWithoutLumpSum * xVariable * variableInterest) / (xVariable - 1);
 
         let interestPaidDuringVariableRate = 0;
 
-        // Calculate the total interest paid during the variable rate period
+        // Interest calculation for the variable rate period with and without lump sum
         for (let i = 0; i < remainingPayments; i++) {
             const interestPayment = remainingPrincipal * variableInterest;
             const principalPayment = monthlyVariable - interestPayment;
 
+            const interestPaymentWithoutLump = remainingPrincipalWithoutLumpSum * variableInterest;
+            const principalPaymentWithoutLump = monthlyVariableWithoutLump - interestPaymentWithoutLump;
+
             // Apply lump sum payment if it falls within the variable rate period
-            if (fixedPeriod + i === lumpSumYear && lumpSum > 0) {
+            if (fixedPeriod + i === lumpSumMonth && lumpSum > 0) {
                 remainingPrincipal -= lumpSum;
+                remainingPrincipalWithoutLumpSum -= lumpSum;
                 lumpSum = 0; // Ensure the lump sum is applied only once
             }
 
             remainingPrincipal -= principalPayment;
             interestPaidDuringVariableRate += interestPayment;
+
+            // Interest calculation without lump sum
+            remainingPrincipalWithoutLumpSum -= principalPaymentWithoutLump;
+            interestPaidVariableWithoutLump += interestPaymentWithoutLump;
 
             // Recalculate the term if the remaining principal is paid off early
             if (remainingPrincipal <= 0) {
@@ -100,9 +123,14 @@
 
         // Ensure remaining principal doesn't go negative
         remainingPrincipal = Math.max(remainingPrincipal, 0);
+        remainingPrincipalWithoutLumpSum = Math.max(remainingPrincipalWithoutLumpSum, 0);
 
-        // Total interest paid over the entire loan period
+        // Total interest paid over the entire loan period with and without lump sum
         const totalInterestPaid = interestPaidDuringFixedRate + interestPaidDuringVariableRate;
+        const totalInterestPaidWithoutLump = interestPaidFixedWithoutLump + interestPaidVariableWithoutLump;
+
+        // Interest saved with the lump sum repayment
+        const interestSaved = totalInterestPaidWithoutLump - totalInterestPaid;
 
         // Total loan value (principal + total interest paid)
         const totalLoanValue = principal + totalInterestPaid;
@@ -114,12 +142,14 @@
 
         if (!isNaN(monthlyFixed) && monthlyFixed !== Infinity && !isNaN(fixedPeriod) && !isNaN(variableInterest)) {
             document.getElementById("result").innerText = `
-            Monthly Payment (Fixed Rate): $${monthlyFixed.toFixed(2)}
-            \nInterest Paid During Fixed Rate Period: $${interestPaidDuringFixedRate.toFixed(2)}
-            \nRemaining Balance After Fixed Rate Period: $${remainingPrincipal.toFixed(2)} #TODO - fix issue here
-            \nMonthly Payment (Variable Rate): $${monthlyVariable.toFixed(2)}
-            \nTotal Interest Paid Over Entire Loan Period: $${totalInterestPaid.toFixed(2)}
-            \nTotal Loan Value (Principal + Interest): $${totalLoanValue.toFixed(2)} - Assuming a constant repayment from fixed repayment.`
+            Monthly Payment (Fixed Rate): €${monthlyFixed.toFixed(2)}
+            \nInterest Paid During Fixed Rate Period: €${interestPaidDuringFixedRate.toFixed(2)}
+            \nRemaining Balance After Fixed Rate Period: €${remainingPrincipal.toFixed(2)} #FIXME
+            \nMonthly Payment (Variable Rate): €${monthlyVariable.toFixed(2)}
+            \nTotal Interest Paid Over Entire Loan Period: €${totalInterestPaid.toFixed(2)}
+            \nTotal Loan Value (Principal + Interest): €${totalLoanValue.toFixed(2)}
+            \nInterest Saved with Lump Sum Repayment: €${interestSaved.toFixed(2)} #FIXME
+            \nTotal Loan Term After Lump Sum: ${remainingYears} years and ${remainingMonths} months #FIXME`;
         } else {
             document.getElementById("result").innerText = "Please enter valid values.";
         }
