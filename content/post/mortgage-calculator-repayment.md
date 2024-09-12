@@ -24,11 +24,15 @@ This is still under development, just adding here to access across devices.
 {{% notice info "Info" %}}
 This is a simple calculator meant for a quick look on mortgage calculations. Use it at your own
 risk.
-
 This is still under development, just adding here to access across devices.
 {{% /notice %}}
 
-### Monthly mortgage repayments (based on interest rate.)
+{{% notice note "Note" %}}
+I'm not great with JavaScript and this is quick & dirty script, therefore. I used chatGPT-4o to 
+correct large chunks of this code. Much faster to reach a working piece of script :grimacing:
+{{% /notice %}}
+
+### Monthly mortgage repayments
 
 {{< mortgage-calculator >}}
 
