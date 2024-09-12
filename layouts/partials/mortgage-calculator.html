@@ -1,27 +1,125 @@
-<div id="mortgage-calculator">
-    <h3>Mortgage Calculator</h3>
-    <label for="principal">Loan Amount ($):</label>
-    <input type="number" id="principal"/>
-    <label for="interest">Interest Rate (%):</label>
-    <input type="number" id="interest" step="0.01"/>
-    <label for="years">Loan Term (Years):</label>
-    <input type="number" id="years"/>
-    <button onclick="calculateMortgage()">Calculate</button>
-    <p id="result"></p>
-</div>
+<!-- Include Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
+<div id="mortgage-calculator" class="container mt-5">
+    <h3 class="mb-4">Mortgage Calculator</h3>
+    <div class="form-group">
+        <label for="principal">Loan Amount ($):</label>
+        <input type="number" id="principal" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="interest">Fixed Interest Rate (%):</label>
+        <input type="number" id="interest" step="0.01" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="years">Loan Term (Years):</label>
+        <input type="number" id="years" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="fixedPeriod">Fixed Rate Period (Years):</label>
+        <input type="number" id="fixedPeriod" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="variableInterest">Variable Interest Rate (%):</label>
+        <input type="number" id="variableInterest" step="0.01" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="lumpSum">Lump Sum Payment ($):</label>
+        <input type="number" id="lumpSum" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="lumpSumYear">Year Lump Sum Payment is Made:</label>
+        <input type="number" id="lumpSumYear" class="form-control" />
+    </div>
+    <button onclick="calculateMortgage()" class="btn btn-primary">Calculate</button>
+    <p id="result" class="mt-4"></p>
+</div>
 
 <script>
     function calculateMortgage() {
         const principal = parseFloat(document.getElementById("principal").value);
-        const interest = parseFloat(document.getElementById("interest").value) / 100 / 12;
-        const payments = parseFloat(document.getElementById("years").value) * 12;
+        const fixedInterest = parseFloat(document.getElementById("interest").value) / 100 / 12;
+        const variableInterest = parseFloat(document.getElementById("variableInterest").value) / 100 / 12;
+        const totalPayments = parseFloat(document.getElementById("years").value) * 12;
+        const fixedPeriod = parseFloat(document.getElementById("fixedPeriod").value) * 12;
+        let lumpSum = parseFloat(document.getElementById("lumpSum").value);
+        const lumpSumYear = parseFloat(document.getElementById("lumpSumYear").value) * 12;
 
-        const x = Math.pow(1 + interest, payments);
-        const monthly = (principal * x * interest) / (x - 1);
+        // Calculate the monthly payment for the fixed rate period
+        const xFixed = Math.pow(1 + fixedInterest, totalPayments);
+        const monthlyFixed = (principal * xFixed * fixedInterest) / (xFixed - 1);
 
-        if (!isNaN(monthly) && (monthly !== Infinity)) {
-            document.getElementById("result").innerText = `Monthly Payment: $${monthly.toFixed(2)}`;
+        let remainingPrincipal = principal;
+        let interestPaidDuringFixedRate = 0;
+
+        // Calculate the amount left after the fixed rate period
+        for (let i = 0; i < fixedPeriod; i++) {
+            const interestPayment = remainingPrincipal * fixedInterest;
+            const principalPayment = monthlyFixed - interestPayment;
+
+            // Apply lump sum payment if it falls within the fixed rate period
+            if (i === lumpSumYear) {
+                remainingPrincipal -= lumpSum;
+            }
+
+            // Only half of each payment goes to reducing the loan owed
+            remainingPrincipal -= principalPayment / 2;
+            interestPaidDuringFixedRate += interestPayment;
+        }
+
+        // Check and correct the remaining principal after fixed-rate period
+        remainingPrincipal = Math.max(remainingPrincipal, 0);
+
+        // Calculate the monthly payment for the remaining loan period at the variable rate
+        const remainingPayments = totalPayments - fixedPeriod;
+        const xVariable = Math.pow(1 + variableInterest, remainingPayments);
+        const monthlyVariable = (remainingPrincipal * xVariable * variableInterest) / (xVariable - 1);
+
+        let interestPaidDuringVariableRate = 0;
+
+        // Calculate the total interest paid during the variable rate period
+        for (let i = 0; i < remainingPayments; i++) {
+            const interestPayment = remainingPrincipal * variableInterest;
+            const principalPayment = monthlyVariable - interestPayment;
+
+            // Apply lump sum payment if it falls within the variable rate period
+            if (fixedPeriod + i === lumpSumYear && lumpSum > 0) {
+                remainingPrincipal -= lumpSum;
+                lumpSum = 0; // Ensure the lump sum is applied only once
+            }
+
+            remainingPrincipal -= principalPayment;
+            interestPaidDuringVariableRate += interestPayment;
+
+            // Recalculate the term if the remaining principal is paid off early
+            if (remainingPrincipal <= 0) {
+                remainingPrincipal = 0;
+                break;
+            }
+        }
+
+        // Ensure remaining principal doesn't go negative
+        remainingPrincipal = Math.max(remainingPrincipal, 0);
+
+        // Total interest paid over the entire loan period
+        const totalInterestPaid = interestPaidDuringFixedRate + interestPaidDuringVariableRate;
+
+        // Total loan value (principal + total interest paid)
+        const totalLoanValue = principal + totalInterestPaid;
+
+        // Recalculate the total loan term in years and months
+        const remainingTermMonths = Math.ceil(totalPayments - (fixedPeriod + remainingPayments));
+        const remainingYears = Math.floor(remainingTermMonths / 12);
+        const remainingMonths = remainingTermMonths % 12;
+
+        if (!isNaN(monthlyFixed) && monthlyFixed !== Infinity && !isNaN(fixedPeriod) && !isNaN(variableInterest)) {
+            document.getElementById("result").innerText = `
+            Monthly Payment (Fixed Rate): $${monthlyFixed.toFixed(2)}
+            \nInterest Paid During Fixed Rate Period: $${interestPaidDuringFixedRate.toFixed(2)}
+            \nRemaining Balance After Fixed Rate Period: $${remainingPrincipal.toFixed(2)} #TODO - fix issue here
+            \nMonthly Payment (Variable Rate): $${monthlyVariable.toFixed(2)}
+            \nTotal Interest Paid Over Entire Loan Period: $${totalInterestPaid.toFixed(2)}
+            \nTotal Loan Value (Principal + Interest): $${totalLoanValue.toFixed(2)} - Assuming a constant repayment from fixed repayment.`
         } else {
             document.getElementById("result").innerText = "Please enter valid values.";
         }
