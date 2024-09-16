@@ -3,7 +3,7 @@ title: "CCSP NIDS"
 date: 2024-09-07T17:22:15+01:00 
 description: "Network-based Intrusion Detection System" 
 featured: false 
-draft: false 
+draft: true 
 toc: true 
  
 codeMaxLines: 10 

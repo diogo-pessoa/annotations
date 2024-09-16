@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2024-07-13
 title: "Big O for Python lists"
 slug: "Python-lists-BigO"

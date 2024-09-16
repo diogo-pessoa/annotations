@@ -3,7 +3,7 @@ title: "Robert Sapolsky"
 date: 2024-09-02T16:32:31+01:00 # Date of post creation.
 description: "Determined, Behave, Zebras don't get ulcers and Podcast Interviews notes"
 featured: false
-draft: false 
+draft: true 
 toc: true
 categories:
   - Reflections

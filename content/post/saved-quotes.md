@@ -2,8 +2,8 @@
 title: "Collection of saved Quotes"
 date: 2024-06-29
 description: "Collection of quotes I captured hoping to absorb something from each."
-featured: true
-draft: false
+featured: false
+draft: true
 categories:
   - Reflections
 tags:

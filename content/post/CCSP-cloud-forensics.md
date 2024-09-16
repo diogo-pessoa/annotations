@@ -2,7 +2,7 @@
 title: "CCSP Cloud Forensics" # Title of the blog post.
 date: 2024-09-07T16:49:05+01:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
+featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
