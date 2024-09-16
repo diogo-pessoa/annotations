@@ -3,7 +3,7 @@ title: "Risk - how bad we really are in assessing/reacting to risk?"
 date: 2024-09-02T16:32:31+01:00
 description: "Notes and reflections from Risk and notes from book The Unthinkable"
 featured: false
-draft: false
+draft: true
 toc: true
 categories:
   - Reflections

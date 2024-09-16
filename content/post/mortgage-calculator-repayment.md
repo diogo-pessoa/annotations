@@ -2,8 +2,8 @@
 title: "Mortgage Calculator Repayment"
 date: 2024-09-12T10:07:58+01:00
 description: "Calculate the best period for a mortgage repayment, to optmize interest rate"
-featured: true
-draft: false
+featured: false
+draft: true
 toc: true
 
 math: true

@@ -2,12 +2,12 @@
 enableSearch = true
 
 # socials
-twitter = ""
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "<i>Eu prefiro ser essa metamorfose ambulante...<br>Eu quero dizer agora o oposto do que eu disse antes<br>Eu prefiro ser essa metamorfose ambulante<br>Do que ter aquela velha opinião formada sobre tudo<br>...É chato chegar a um objetivo num instante<br>Eu quero viver nessa metamorfose ambulante</i> — Raul Seixas"
+#twitter = ""
+#largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+#introDescription = "<i>Eu prefiro ser essa metamorfose ambulante...<br>Eu quero dizer agora o oposto do que eu disse antes<br>Eu prefiro ser essa metamorfose ambulante<br>Do que ter aquela velha opinião formada sobre tudo<br>...É chato chegar a um objetivo num instante<br>Eu quero viver nessa metamorfose ambulante</i> — Raul Seixas"
 introURL = "https://diogo-pessoa.github.io/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "A collection of writings to process my thoughts, learning and experience." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-keywords = ["SystemThinking", "BookInsights", "TechnicalWriting", "reflections"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+#description = "A collection of writings to process my thoughts, learning and experience." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+#keywords = ["SystemThinking", "BookInsights", "TechnicalWriting", "reflections"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
@@ -89,7 +89,7 @@ enforceLightMode = false
 
 ## Customize Sidebar Disclaimer Text
 sidebardisclaimer = true
-disclaimerText = "Opinions are my own. These are drafts and short-hand notes, meant to be capture intriguing ideas or comments from whatever I happen to be reading/studying."
+disclaimerText = "Opinions are my own. These are drafts and short-hand notes."
 
 # Text for the languages menu.
 languageMenuName = "🌐"
@@ -134,16 +134,4 @@ numberOfRecentPosts = 2
 # website author
 [author]
 name = "Diogo Pessoa"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
-[plausible_analytics]
-enable = false # to enable plausible analytics set to true.
-websiteDomain = "diogo-pessoa.github.io/annotations" # domain name of your website, most cases same as your base url
-# plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
-# scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
-
-[matomo_analytics]
-enable = false # To enable matomo analytics change to `true`.
-websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
-matomoDomain = "matomo.example.com" # Set to Matomo domain
-matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked

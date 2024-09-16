@@ -2,7 +2,7 @@
 title: "CCSP CloudDataLifecycle" 
 date: 2024-09-07T13:58:56+01:00 
 description: ""
-draft: false 
+draft: true 
 toc: true
 
 codeMaxLines: 10 

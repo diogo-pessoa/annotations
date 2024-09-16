@@ -3,37 +3,6 @@
   name = "Python"
   url = "/tags/python/"
 
-[[main]]
-  parent = "Technical writing"
-  name = "System Thinking"
-  url = "/tags/systemthinking/"
-
-[[main]]
-parent = "Technical writing"
-  name = "CCSP Exam Prep"
-  url = "/tags/ccsp/"
-
-
-# Submenus are done this way: parent -> identifier
-[[main]]
-  parent = "Annotations"
-  name = "books Insights"
-  url = "/tags/book-insights/"
-[[main]]
-  parent = "Annotations"
-  name = "reflections"
-  url = "/categories/reflections/"
-
-[[main]]
-  parent = "Annotations"
-  name = "saved quotes"
-  url = "post/saved-quotes/"
-
-[[main]]
-  parent = "Annotations"
-  name = "Favorite books"
-  url = "post/my-favorite-books/"
-
 # social menu links
 
 [[social]]

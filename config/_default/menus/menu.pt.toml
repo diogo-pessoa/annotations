@@ -8,29 +8,6 @@
   name = "Python"
   urtl = "/tags/python/"
 
-[[main]]
-  parent = "Posts técnicos"
-  name = "Pensando em Sistemas"
-  url = "/tags/systemthinking/"
-# Submenus are done this way: parent -> identifier
-[[main]]
-  parent = "Anotações"
-  name = "Notes de livros"
-  url = "/tags/book-insights/"
-[[main]]
-  parent = "Anotações"
-  name = "reflexões"
-  url = "/categories/reflections/"
-
-[[main]]
-  parent = "Anotações"
-  name = "Livros Favoritos"
-  url = "post/my-favorite-books/"
-
-[[main]]
-  parent = "Anotações"
-  name = "citações favoritas"
-  url = "post/saved-quotes/"
 
 # social menu links
 

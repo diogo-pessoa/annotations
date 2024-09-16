@@ -2,8 +2,8 @@
 title: "CCSP-Glossary"
 date: 2024-09-02T16:32:31+01:00 # Date of post creation.
 description: "Acronyms, terms with brief descriptions"
-featured: true
-draft: false
+featured: false
+draft: true
 toc: true
 categories:
   - cybersecurity

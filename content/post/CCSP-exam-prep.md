@@ -3,7 +3,7 @@ title: "CCSP Exam Prep self guide"
 date: 2024-09-02T16:45:41+01:00
 description: "Notes and Topics for CCSP EXAM"
 featured: false
-draft: false
+draft: true
 toc: true
 
 codeMaxLines: 10
