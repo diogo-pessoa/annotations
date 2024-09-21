@@ -12,8 +12,19 @@ tags:
 comment: false
 ---
 
+
+> _“Whenever you find yourself on the side of the majority, it is time to pause and reflect.”
+— Mark Twain_ # where I saw: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
+
+----
+
+> _“The best life is the one in which the creative impulses play the largest part and the possessive impulses the
+smallest" — Bertrand Russell_ # where I saw: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
+
+----
+
 > _"Ordinary people merely think how they shall spend their time; a man of
-talent **tries to use it**"_ — Arthur Schopenhauer
+talent **tries to use it**"_ — Arthur Schopenhauer # where I saw: [The wisdom of life](https://www.goodreads.com/book/show/21182.The_Wisdom_of_Life)
 
 _came by it indirectly when
 re-visiting [Happy, D. Brown](https://diogo-pessoa.github.io/annotations/post/my-favorite-books/#philosophy)_
@@ -142,6 +153,6 @@ dishonest tradesman. He has no further claim to be considered as an artist.”_ 
 > no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will
 > ever be a threat to the world.”
 > — Chuck Palahniuk
- 
+
 - Another treasure from [Tim Ferris](https://x.com/tferriss) weekly
   collections: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
