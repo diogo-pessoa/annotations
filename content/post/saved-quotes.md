@@ -31,8 +31,7 @@ re-visiting [Happy, D. Brown](https://diogo-pessoa.github.io/annotations/post/my
 
 ---
 
-> _“O, it is excellent
-To have a giant's strength, but it is tyrannous to use it like a giant.”_ ― William Shakespeare
+> _“O, it is excellent To have a giant's strength, but it is tyrannous to use it like a giant.”_ ― William Shakespeare
 
 * First scene of [Motherless Brooklyn](https://en.wikipedia.org/wiki/Motherless_Brooklyn)
 

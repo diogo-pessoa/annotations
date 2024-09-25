@@ -3,6 +3,11 @@
   name = "Python"
   url = "/tags/python/"
 
+[[main]]
+parent = "Technical writing"
+name = "Golang"
+url = "/tags/golang/"
+
 # social menu links
 
 [[social]]
