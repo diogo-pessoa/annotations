@@ -1,14 +1,13 @@
 ---
 title: "Collection of saved Quotes"
 date: 2024-06-29
-description: "Collection of quotes I captured hoping to absorb something from each."
+description: ""
 featured: false
-draft: true
+draft: false
 categories:
   - Reflections
 tags:
   - quotes
-  - personal-lists
 comment: false
 ---
 
