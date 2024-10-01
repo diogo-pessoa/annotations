@@ -12,6 +12,12 @@ tags:
 comment: false
 ---
 
+
+> _"Your income seldom exceeds personal development, so invest in yourself."_ — Unknown 
+> #5-minutes-Journal
+
+
+---
 > _"Ordinary people merely think how they shall spend their time; a man of
 talent **tries to use it**"_ — Arthur Schopenhauer
 
