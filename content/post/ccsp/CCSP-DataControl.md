@@ -1,20 +1,15 @@
 ---
-title: "CCSP DataControl" # Title of the blog post.
-date: 2024-09-07T14:15:21+01:00 # Date of post creation.
-description: ""
-draft: true 
+title: "CCSP DataControl"
+date: 2024-09-07T14:15:21+01:00
+draft: false
 toc: true
 
-codeMaxLines: 10 
-codeLineNumbers: false 
-figurePositionShow: true 
 categories:
   - cybersecurity
   - CCSP-DataControl
 tags:
   - ccsp
   - exam-guide
-  - exam-prep
   - cloud
   - Data-management
 series:

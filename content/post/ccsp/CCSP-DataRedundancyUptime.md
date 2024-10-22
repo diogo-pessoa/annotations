@@ -12,7 +12,6 @@ tags:
   - ccsp
   - exam-prep
   - cloud
-  - glossary
   - DataCenter
   - Data
   - Tiers

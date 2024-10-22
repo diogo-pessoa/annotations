@@ -1,14 +1,11 @@
 ---
 title: "Collection of saved Quotes"
 date: 2024-06-29
-description: ""
-featured: false
 draft: false
 categories:
   - Reflections
 tags:
   - quotes
-comment: false
 ---
 
 ---
