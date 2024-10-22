@@ -88,7 +88,7 @@ enforceLightMode = false
 # footerLogo = "icons/copy.svg"
 
 ## Customize Sidebar Disclaimer Text
-sidebardisclaimer = true
+sidebardisclaimer = false
 disclaimerText = "Opinions are my own. These are drafts and short-hand notes."
 
 # Text for the languages menu.
