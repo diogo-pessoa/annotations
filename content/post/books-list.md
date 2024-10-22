@@ -30,10 +30,10 @@ highlights and notes from each read.
 
 ### Probability, Statistics and Data Analytics
 
-- **The Drunkard's Walk - Leonard Mlodinow** `(favorite)`
+- **The Drunkard's Walk - Leonard Mlodinow** 
   Not only for the way it discusses randomness, but the walk through history and some of the
   historic characters that influenced the field of Probability.
-- **_The Signal and the Noise_** - Nate Silver `(A classic)`
+- **_The Signal and the Noise_** - Nate Silver 
 
 - **_Fooled by Randomness_** - Nassim Nicholas Taleb
 - **_The Black Swan_** - Nassim Nicholas Taleb
@@ -44,7 +44,7 @@ highlights and notes from each read.
 
 - **_Prediction Machines_** - Agrawal, Gans, Goldfarb
 - **_Power and Prediction_** - Agrawal, Gans, Goldfarb
-- **_The book of Why_** - Judea Pearl `(I'd easily have this one listed as a Philosophy book)`
+- **_The book of Why_** - Judea Pearl
 - **_Quand La machine Apprend_** - Yann Le Cun
 - **_Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI_** - Matthew Sadler, Natasha Regan
 
@@ -83,13 +83,12 @@ highlights and notes from each read.
 #### Psychology and (or because of) ADHD
 
 - **_Taking Charge of Adult ADHD_** - **Russel Barkley, PhD
-  ** `(Dr. Barkley is an absolut authority on ADHD)`
 - **_The Myth of Normal_** - Gabor Maté
 - **_Scattered Minds_** - Gabor Maté
 
 #### Pyschology and Neuroscience
 
-- **_Why Zebras don't get Ulcers_** - Robert M. Sapolsky `(In Progress`
+- **_Why Zebras don't get Ulcers_** - Robert M. Sapolsky 
 
 #### Social Psychology
 
@@ -118,20 +117,17 @@ highlights and notes from each read.
 
 - **_Food Politics_** - Marion Nestle
 - **_Ultra-Processed People_** - Chris Van Tulleken
-- **_Enlightenment Now_** - Steven Pinker `(I'm due a re-read on this one)`
+- **_Enlightenment Now_** - Steven Pinker 
 - **_Bad Science_** - Ben Goldacre
 
 #### History and Politics
-
-`(This is to fit Christopher Hitchens writings, it's history, but he doesn't shy away from taking a stand. Thought provoking)` :
-sweat_smile:
 
 - The Missionary Position - Christopher Hitchens
 - The Trial of Henry Kissinger - Christopher Hitchens
 
 #### Places
 
-- **_A Little History of the Future of Dublin_** - Frank McDonald
+- [**_A Little History of the Future of Dublin_** - Frank McDonald](https://shop.littlemuseum.ie/products/a-little-history-of-the-future-of-dublin)
 
 #### Historical events that restore faith in Humanity
 
@@ -140,8 +136,7 @@ sweat_smile:
 
 ### Biographies
 
-- **_Muggsy_** - Tyrone Bogues `(5 ft 3 and played 14 seasons in the NBA, in the 90s)` :
-  exploding_head:
+- **_Muggsy_** - Tyrone Bogues
 - **_Breathe_**: A Life in Flow_**  - Rickson Gracie
 - **_Mud, Sweat and Tears_** - Bear Grylls
 - **_Way of the fight_** - Georges St. Pierre
@@ -164,12 +159,12 @@ sweat_smile:
 ### Self-help (call it for what it is) :)
 
 - **_Jonathan Livingston Seagull_** - Richard Bach
-- **_Happy_** - Derren Brown `(top of the list, lovely walk through the Stoic thinkers)`
+- **_Happy_** - Derren Brown
 - **_A Book of Secrets_** - Derren Brown
 - **_Atomic Habits_** - James Clear
 - **_Elastic_** - Leonard Mlodinow
 - **_Emotional_** - Leonard Mlodinow
-- **_The War of Art_** - Steven Pressfield `(Passionate book about the drive in creative work)`
+- **_The War of Art_** - Steven Pressfield
 - **_How to Stop Worrying and start Living_** - Dale Carnegie
 - **_Beyond Order: 12 more rules for life_** - Jordan B. Peterson
 - **_12 Rules for Life_** - Jordan B. Peterson
@@ -199,7 +194,7 @@ sweat_smile:
 #### Business and Leadership (self-help)
 
 - **_The Asshole Survival Guide_** - Robert
-  Sutton `(Interesting ideas, but a bit exaggerated in parts. Almost an Us-vs-Them mentality)`
+  Sutton
 - **_Never Split the Difference_** - Chris Voss
 
 #### Wellbeing, health and longevity (self-help)
@@ -207,7 +202,7 @@ sweat_smile:
 - **_Outlive_** - Peter Attia, Bill Glifford
 - **_Age Proof_** - Prof. Rose Anne Kenny
 - **_Sacred Cow_** - Robb
-  Wolf `(Mixed feelings on this one. I like the Paleo Diet from Robb Wolf, but I feel this almost leans to much in proving a point.)`
+  Wolf
 - **_The mindful Athlete_** - George Mumford
 - **_Why we sleep_** - Matthew Walker
 - **_Caffeine_** - Michael Pollan
@@ -235,7 +230,7 @@ The Leadership Handbook of Silicon Valley's Bill Campbell_** - Eric Schmidt, Jon
 - **_Extreme Ownership_** - Jocko Willink, Leif Babin
 - **_The Dichotomy of Leadership_** - Jocko Willink, Leif Babin
 - **_How to win friends and Influence People_** - Dale Carnegie
-- **_Wooden_** - John Wooden `(Best sports coach of all time)`
+- **_Wooden_** - John Wooden 
 - **_The Book of Eleven Rings_** - Phil Jackson
 
 ---
@@ -288,8 +283,8 @@ The Leadership Handbook of Silicon Valley's Bill Campbell_** - Eric Schmidt, Jon
 ---
 ## Want to read
 
-- **_Processing-Acquisition-Reference-Bradford-Book_** - Edward A. Gibson `(Not started)`
-- **_Walden_** - Henry David Thoreau `(Not started)`
-- **_How to Lie with Statistics_** - Darrell Huff `(Not started)`
-- **_The Art of Resilience_** - Ross Edgley `(Not started)`
-- **_Basic Economics A common Sense guide to the Economy_** - Thomas Sowell `(Not started)`
+- **_Processing-Acquisition-Reference-Bradford-Book_** - Edward A. Gibson 
+- **_Walden_** - Henry David Thoreau 
+- **_How to Lie with Statistics_** - Darrell Huff 
+- **_The Art of Resilience_** - Ross Edgley 
+- **_Basic Economics A common Sense guide to the Economy_** - Thomas Sowell

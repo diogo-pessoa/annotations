@@ -3,7 +3,7 @@ title: "CCSP-Glossary"
 date: 2024-09-02T16:32:31+01:00 # Date of post creation.
 description: "Acronyms, terms with brief descriptions"
 featured: false
-draft: true
+draft: false
 toc: true
 categories:
   - cybersecurity
@@ -18,7 +18,6 @@ series:
 
 * **ISMS** Information Security Management System
 * **MTD/MAD** Maximum Tolerable (or Accepted) Downtime
-*
 * **RPO** Recovery Point Objective
 * **DAST** Dynamic Application Security Testing
 * **SAST** Static application security testing
@@ -27,7 +26,7 @@ series:
 * **UPS** Uninterruptable Power supply
 * **DLP** Data Loss Prevention
 * **CASB** Cloud access Security Broker
-* **SIEM** (Security Information and Event Management)
+* **SIEM** (Security Information and Event Management). Microsoft What is [SIEM](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem)
 * **HSM** - Hardware security Module
 * **BC** Business Continuity
 * **DR** Disaster Recovery
