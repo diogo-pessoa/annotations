@@ -1,20 +1,14 @@
 ---
-title: "CCSP CloudDataLifecycle" 
-date: 2024-09-07T13:58:56+01:00 
-description: ""
-draft: true 
+title: "CCSP CloudDataLifecycle"
+date: 2024-09-07T13:58:56+01:00
+draft: false
 toc: true
-
-codeMaxLines: 10 
-codeLineNumbers: false 
-figurePositionShow: true 
 categories:
   - cybersecurity
   - CCSP-DataControl
 tags:
   - ccsp
   - exam-guide
-  - exam-prep
   - cloud
   - Data-management
 series:
@@ -80,18 +74,26 @@ data loss.
 
 This phase involves accessing, processing, or analyzing the data to achieve a specific
 purpose.
+
 #### Security Considerations
 
 ##### Data Encryption in Use
+
 Use encryption methods like homomorphic encryption or secure multi-party
 computation to protect data while it's being processed.
+
 ##### Access Control and Authentication
+
 Enforce strong authentication and authorization policies for data
 access.
+
 ##### Monitoring and Auditing
+
 Monitor data access and usage patterns to detect and prevent unauthorized
 use.
+
 ##### Data Masking and Anonymization
+
 Use data masking, anonymization, or tokenization techniques to
 protect sensitive data. [TODO - Add link to data masking]
 
@@ -154,7 +156,6 @@ see: [crypto-shredding-cryptographic-erasure](/post/ccsp-datacontrol/#crypto-shr
 
 Use secure erasure methods (e.g., data wiping, degaussing, physical destruction) to
 ensure data is irrecoverable.
-
 
 ##### Policy Enforcement
 

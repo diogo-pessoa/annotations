@@ -1,7 +1,7 @@
 [[main]]
   parent = "Technical writing"
   name = "Python"
-  url = "/tags/python/"
+  url = "/series/diary-of-a-flawed-pythonista/"
 
 [[main]]
 parent = "Technical writing"
@@ -20,8 +20,8 @@ url = "/series/lyrics/"
 
 [[main]]
 parent = "Notes"
-name = "Lyrics"
-url = "/series/lyrics/"
+name = "Books"
+url = "post/books-list/"
 
 [[main]]
 parent = "Notes"

@@ -3,17 +3,21 @@ title: "CCSP NIDS"
 date: 2024-09-07T17:22:15+01:00 
 description: "Network-based Intrusion Detection System" 
 featured: false 
-draft: true 
-toc: true 
- 
-codeMaxLines: 10 
-codeLineNumbers: false 
-figurePositionShow: true 
+draft: false 
+toc: true
+
 categories:
-  - Technology
+   - cybersecurity
 tags:
-  - Tag_name1
-  - Tag_name2
+   - ccsp
+   - exam-guide
+   - cloud
+   - data-masking
+   - Data-management
+   - IDS
+   - NIDS
+series:
+   - ccsp-exam-prep
 
 ---
 

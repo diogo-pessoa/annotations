@@ -1,19 +1,13 @@
 ---
 title: "CCSP Exam Prep self guide"
 date: 2024-09-02T16:45:41+01:00
-description: "Notes and Topics for CCSP EXAM"
-featured: false
-draft: true
+draft: false
 toc: true
-
-codeMaxLines: 10
-codeLineNumbers: false
 categories:
   - cybersecurity
 tags:
   - ccsp
   - exam-guide
-  - exam-prep
   - cloud
 series:
   - ccsp-exam-prep

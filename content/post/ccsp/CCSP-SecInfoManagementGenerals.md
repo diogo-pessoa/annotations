@@ -1,26 +1,20 @@
 ---
-title: "CCSP SecInfoManagementGenerals" # Title of the blog post.
-date: 2024-09-07T17:02:03+01:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
-# menu: main
-usePageBundles: false # Set to true to group assets like images in the same folder as this post.
-featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
-featureImageAlt: 'Description of image' # Alternative text for featured image.
-featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
-figurePositionShow: true # Override global value for showing the figure label.
+title: "CCSP SecInfoManagementGenerals"
+date: 2024-09-07T17:02:03+01:00 
+draft: false 
+toc: false 
+
 categories:
-  - Technology
+  - cybersecurity
+  - CCSP-SIM
 tags:
-  - Tag_name1
-  - Tag_name2
-# comment: false # Disable comment if false.
+  - ccsp
+  - exam-guide
+  - exam-prep
+  - cloud
+  - Data-management
+series:
+  - ccsp-exam-prep
 ---
 
 **SIM (Security Information Management)** and **SIEM (Security Information and Event Management)** are both technologies used in cybersecurity to monitor, analyze, and manage security events and information. However, SIEM is a more advanced and comprehensive solution that has evolved from earlier SIM and SEM (Security Event Management) systems. 

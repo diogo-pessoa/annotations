@@ -1,15 +1,15 @@
 ---
 title: "CCSP-Glossary"
-date: 2024-09-02T16:32:31+01:00 # Date of post creation.
+date: 2024-09-02T16:32:31+01:00
 description: "Acronyms, terms with brief descriptions"
-featured: false
+featured: true
 draft: false
 toc: true
 categories:
   - cybersecurity
 tags:
   - ccsp
-  - exam-prep
+  - exam-guide
   - cloud
   - glossary
 series:
@@ -26,7 +26,8 @@ series:
 * **UPS** Uninterruptable Power supply
 * **DLP** Data Loss Prevention
 * **CASB** Cloud access Security Broker
-* **SIEM** (Security Information and Event Management). Microsoft What is [SIEM](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem)
+* **SIEM** (Security Information and Event Management). Microsoft What
+  is [SIEM](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem)
 * **HSM** - Hardware security Module
 * **BC** Business Continuity
 * **DR** Disaster Recovery
