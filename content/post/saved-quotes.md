@@ -8,6 +8,17 @@ tags:
   - quotes
 ---
 
+
+
+> “Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s
+> pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake.
+> He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure
+> your imagination withers. Until it’s as useful as your appendix. He’s making sure your attention is
+> always filled. And this being fed, it’s worse than being watched. With the world always filling you,
+> no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will
+> ever be a threat to the world.”
+> — Chuck Palahniuk # From: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
+  
 ---
 > Most people end up being conformists; they adapt to prison life. A few become reformers; they fight for better
 > lighting, better ventilation. Hardly anyone becomes a rebel, a revolutionary who breaks down the prison walls. You can
@@ -23,7 +34,7 @@ tags:
 ---
 
 > _“Whenever you find yourself on the side of the majority, it is time to pause and reflect.”
-— Mark Twain_ # where I saw: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
+— Mark Twain_ # From: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
 
 ----
 
@@ -61,7 +72,7 @@ to run your life.”_ – Nicholas Nassim Taleb
 ---
 
 > * _"We cannot solve problems with the kind of thinking we employed when we came up with them."_
-> * _"Life is like riding a bicycle. To keep your balance you must keep moving."_  – Albert Einstein
+> * _"Life is like riding a bicycle. To keep your balance you must keep moving."_  – Albert Einstein (supposedly)
 
 ---
 
@@ -106,9 +117,7 @@ abused power only on the side of mercy.”_
 
 ---
 > _"People that reach greatness, knows something about themselves, that nobody else knew". The
-so-called "late bloomers"_
-
-* Unknown, at least to me
+so-called "late bloomers" — Unknown
 
 ---
 
@@ -147,21 +156,5 @@ supposed.”_
 the author is what he is. It has nothing to do with the fact that other people want what they want.
 Indeed, the moment that an artist takes notice of what other people want, and tries to supply the
 demand, he ceases to be an artist, and becomes a dull or an amusing craftsman, an honest or a
-dishonest tradesman. He has no further claim to be considered as an artist.”_  — Oscar Wilde
-
-- from [Tim Ferris](https://x.com/tferriss) weekly
-  collections: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
-
+dishonest tradesman. He has no further claim to be considered as an artist.”_  — Oscar Wilde # From: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
 ---
-
-> “Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s
-> pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake.
-> He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure
-> your imagination withers. Until it’s as useful as your appendix. He’s making sure your attention is
-> always filled. And this being fed, it’s worse than being watched. With the world always filling you,
-> no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will
-> ever be a threat to the world.”
-> — Chuck Palahniuk
-
-- Another treasure from [Tim Ferris](https://x.com/tferriss) weekly
-  collections: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)
