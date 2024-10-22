@@ -11,8 +11,15 @@ tags:
 comment: false
 ---
 
+---
+> Most people end up being conformists; they adapt to prison life. A few become reformers; they fight for better
+> lighting, better ventilation. Hardly anyone becomes a rebel, a revolutionary who breaks down the prison walls. You can
+> only be a revolutionary when you see the prison walls in the first place.”
+> — Anthony de Mello
 
-> _"Your income seldom exceeds personal development, so invest in yourself."_ — Unknown 
+---
+
+> _"Your income seldom exceeds personal development, so invest in yourself."_ — Unknown
 > #5-minutes-Journal
 
 
@@ -29,7 +36,8 @@ smallest" — Bertrand Russell_ # where I saw: [5-Bullet-Friday](https://go.tim.
 ----
 
 > _"Ordinary people merely think how they shall spend their time; a man of
-talent **tries to use it**"_ — Arthur Schopenhauer # where I saw: [The wisdom of life](https://www.goodreads.com/book/show/21182.The_Wisdom_of_Life)
+talent **tries to use it**"_ — Arthur Schopenhauer # where I
+> saw: [The wisdom of life](https://www.goodreads.com/book/show/21182.The_Wisdom_of_Life)
 
 _came by it indirectly when
 re-visiting [Happy, D. Brown](https://diogo-pessoa.github.io/annotations/post/my-favorite-books/#philosophy)_
@@ -158,6 +166,6 @@ dishonest tradesman. He has no further claim to be considered as an artist.”_ 
 > no one has to worry about what’s in your mind. With everyone’s imagination atrophied, no one will
 > ever be a threat to the world.”
 > — Chuck Palahniuk
- 
+
 - Another treasure from [Tim Ferris](https://x.com/tferriss) weekly
   collections: [5-Bullet-Friday](https://go.tim.blog/5-bullet-friday-1/)

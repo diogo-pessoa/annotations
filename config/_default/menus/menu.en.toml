@@ -3,6 +3,31 @@
   name = "Python"
   url = "/tags/python/"
 
+[[main]]
+parent = "Technical writing"
+name = "CCSP"
+url = "/tags/ccsp/"
+
+[[main]]
+parent = "Notes"
+name = "Poems"
+url = "/series/poems/"
+
+[[main]]
+parent = "Notes"
+name = "Lyrics"
+url = "/series/lyrics/"
+
+[[main]]
+parent = "Notes"
+name = "Lyrics"
+url = "/series/lyrics/"
+
+[[main]]
+parent = "Notes"
+name = "Quotes"
+url = "post/saved-quotes"
+
 # social menu links
 
 [[social]]
