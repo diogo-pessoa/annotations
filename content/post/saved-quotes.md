@@ -71,8 +71,7 @@ to run your life.”_ – Nicholas Nassim Taleb
 > **_"Most People Don't Think Simple Enough"_** – Jim Keller
 
 ---
-> *
-*_The secret to doing good research is always to be a little underemployed. You waste years by not
+> **_The secret to doing good research is always to be a little underemployed. You waste years by not
 being able to waste hours.”_**
 — Amos Tversky
 ---
