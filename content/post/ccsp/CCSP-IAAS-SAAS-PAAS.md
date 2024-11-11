@@ -7,11 +7,11 @@ toc: false
 
 categories:
   - cybersecurity
-  - CCSP-DataControl
+  - cloud-infrastructure
 tags:
   - ccsp
-  - exam-guide
   - cloud
+  - platform
 series:
   - ccsp-exam-prep
 ---
