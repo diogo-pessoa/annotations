@@ -16,106 +16,7 @@ series:
   - ccsp-exam-prep
 ---
 
-* **ISMS** Information Security Management System
-* **MTD/MAD** Maximum Tolerable (or Accepted) Downtime
-* **RPO** Recovery Point Objective
-* **DAST** Dynamic Application Security Testing
-* **SAST** Static application security testing
-* **OWASP**: Open Worldwide Application Security Project
-* **ONF** - Organization normative framework
-* **UPS** Uninterruptable Power supply
-* **DLP** Data Loss Prevention
-* **CASB** Cloud access Security Broker
-* **SIEM** (Security Information and Event Management). Microsoft What
-  is [SIEM](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem)
-* **HSM** - Hardware security Module
-* **BC** Business Continuity
-* **DR** Disaster Recovery
-* **DAM** - Digital Asset Management
-* **SAN** Storage Area Network
-
-* **CCSK** Certificate of Cloud Security Knowledge
-* **CSA**  Cloud Security Alliance
-* **CCM** Cloud Controls Matrix
-* **HVAC** Heating, Ventilation, and Air Conditioning
-* **PKI**  Public Key Infrastructure
-* **PCI** Payment Card Information
-
-* **Cloud Data Lifecycle** **C**reate **S**tore **U**se **S**hare **A**rchive **D**estroy
-
-* **SAML** Security Assertion Markup Language
-
-* **STRIDE** Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and
-  Elevation of Privilege
-
-* **DREAD** Disaster, Reproducibility, Exploitability, Affected Users, and Discoverability.
-
-* **ATASM** Architecture, Threats, Attack Surfaces, and Mitigations
-
-* **PASTA** Process for Attack Simulation and Threat Analysis
-* **NIST** National Institute of Standards and Technology
-* **STAR** Security, Trust, Assurance, and Risk
-* **CIA** triad: confidentiality, integrity, and availability.
-* **ANF** Application Normative Framework
-* **ONF** Organization Normative Framework
-
-Principal Engineering Manager - Microsoft 365 - 1735363
-
-* **BIA** Businness Impact Analysis
-* **TCO** Total cost of ownership
-* **ROI**  Return On Investment
-* **SDN** software-defined networking
-* **VMI** Vendor-Managed Inventory
-* **ECC** Enterprise Control Center
-* **MTTR** (Mean Time to Recovery or Mean Time to Repair) is a key metric used in IT service
-  management, DevOps, and incident management to measure the average time it takes to recover from a
-  failure or restore a system to its normal operating state after an incident. MTTR is a critical
-  indicator of an organization's ability to respond to and recover from incidents, such as hardware
-  failures, software bugs, network outages, or security breaches.
-
-
-* **Virtual sprawl** - refers to the uncontrolled expansion of digital infrastructure, resources,
-  and platforms within an organization, often resulting in inefficiencies, management challenges,
-  and increased cybersecurity risks. This concept is analogous to urban sprawl, where unchecked
-  growth leads to disorganized development, resource depletion, and difficulty in management.
-
-* **COBIT** (Control Objectives for Information and Related Technologies) is a framework for
-  governing and managing enterprise IT. It was developed by ISACA (Information Systems Audit and
-  Control Association) to help organizations achieve their goals for information technology
-  governance and management, ensuring that IT investments align with business objectives and deliver
-  value while managing risks and resources effectively.
-
-
-* **Spoliation** is the term used to describe the destruction of potential evidence (intentionally
-  or otherwise); in various jurisdictions, it can be a crime, or the grounds for another lawsuit.
-*
-* **ARO** Annual Rate of Occurrence is a metric used in risk management and cybersecurity to
-  estimate the expected frequency with which a specific risk or threat is likely to occur within a
-  year. It
-  is typically used in conjunction with other metrics, such as the
-
-* **SLE** - Single Loss Expectancy
-
-* **ALE** Annual Loss Expectancy, to quantify and evaluate the potential impact of risks on an
-  organization.
-
-* **HIDS** (Host-based Intrusion Detection System)
-* **NIDS** (Network-based Intrusion Detection System) is a security solution designed to monitor and
-  analyze network traffic to detect and alert on suspicious activities, potential threats, or
-  unauthorized access attempts within a network.
-
-* **PLA** Public License Agreement
-*
-* **IRM/DRM** - IRM (Information Rights Management) and DRM (Digital Rights Management) are
-  technologies and methodologies used to control and protect access to digital information and
-  content.
-
-* **SOC 1** report focuses on outsourced services that could impact a company's financial reporting.
-  By providing a SOC 1 report from the third-party, companies can effectively communicate
-  information about their risk management and controls framework to multiple stakeholders.
-
-* **SOC 2** They're intended to help organizations and service providers design and implement their
-  control environment
+### Drafts
 
 `Revise`
 
@@ -169,3 +70,173 @@ The Diffie-Hellman key exchange process is designed to allow two parties to crea
 symmetric key) over an untrusted medium. RADIUS is an outmoded access control service for remote
 users. RSA is an encryption scheme. TACACS is a network access protocol set used through a
 centralized server.
+
+* **Shadow IT** - Pending
+* **Virtual sprawl** - refers to the uncontrolled expansion of digital infrastructure, resources,
+  and platforms within an organization, often resulting in inefficiencies, management challenges,
+  and increased cybersecurity risks. This concept is analogous to urban sprawl, where unchecked
+  growth leads to disorganized development, resource depletion, and difficulty in management.
+
+* **IRM/DRM** - IRM (Information Rights Management) and DRM (Digital Rights Management) are
+  technologies and methodologies used to control and protect access to digital information and
+  content.
+
+* **PLA** Public License Agreement
+* **ROI**  Return On Investment
+* **SDN** software-defined networking
+* **VMI** Vendor-Managed Inventory
+* **ECC** Enterprise Control Center
+
+* **BIA** Business Impact Analysis
+* **TCO** Total cost of ownership
+* **SANS Institute**
+
+* **COBIT** (Control Objectives for Information and Related Technologies) is a framework for
+  governing and managing enterprise IT. It was developed by ISACA (Information Systems Audit and
+  Control Association) to help organizations achieve their goals for information technology
+  governance and management, ensuring that IT investments align with business objectives and deliver
+  value while managing risks and resources effectively.
+
+* **Spoliation** is the term used to describe the destruction of potential evidence (intentionally
+  or otherwise); in various jurisdictions, it can be a crime, or the grounds for another lawsuit.
+* **ISMS** Information Security Management System
+* **OWASP**: Open Worldwide Application Security Project
+
+
+* **ONF** - Organization normative framework
+* **UPS** Uninterruptable Power supply
+
+* **SAN** Storage Area Network
+* **CASB** Cloud access Security Broker
+
+
+* **DAM** - Digital Asset Management
+
+* **CCSK** Certificate of Cloud Security Knowledge
+* **CSA**  Cloud Security Alliance
+* **CCM** Cloud Controls Matrix
+* **HVAC** Heating, Ventilation, and Air Conditioning
+* **PKI**  Public Key Infrastructure
+* **HSM** - Hardware security Module
+
+---
+
+### Personal Data Management
+
+#### Acronyms
+* **PII** Personal Identifiable Information
+    * **PCI** Payment Card Information
+    * **PHI** Protected Health Information
+#### Terms
+
+---
+
+* **SAML** Security Assertion Markup Language
+
+* **STRIDE** Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and
+  Elevation of Privilege
+
+
+
+* **ATASM** Architecture, Threats, Attack Surfaces, and Mitigations
+
+* **PASTA** Process for Attack Simulation and Threat Analysis
+* **NIST** National Institute of Standards and Technology
+* **STAR** Security, Trust, Assurance, and Risk
+* **CIA** triad: confidentiality, integrity, and availability.
+* **ANF** Application Normative Framework
+* **ONF** Organization Normative Framework
+
+---
+
+### SDLC & vulnerability Management
+
+#### Acronyms
+
+* **DAST** Dynamic Application Security Testing
+* **SAST** Static application security testing
+
+#### Terms
+
+---
+
+### Disaster Recovery & Business Continuity
+
+#### Acronyms
+
+* **RPO** Recovery Point Objective
+* **BC** Business Continuity
+* **DR** Disaster Recovery
+* **MTD/MAD** Maximum Tolerable (or Accepted) Downtime
+* **BCP** Business Continuity Plan
+* **SLE** - Single Loss Expectancy
+
+#### Terms
+* **MTTR** (Mean Time to Recovery or Mean Time to Repair) is a key metric used in IT service
+  management, DevOps, and incident management to measure the average time it takes to recover from a
+  failure or restore a system to its normal operating state after an incident. MTTR is a critical
+  indicator of an organization's ability to respond to and recover from incidents, such as hardware
+  failures, software bugs, network outages, or security breaches.
+* **ARO** Annual Rate of Occurrence is a metric used in risk management and cybersecurity to
+  estimate the expected frequency with which a specific risk or threat is likely to occur within a
+  year. It is typically used in conjunction with other metrics.
+* **Asset Value (AV)** The financial value of the asset.
+* **Exposure Factor (EF)**  The percentage of the asset expected to be damaged by the risk.
+
+* **ALE** Annual Loss Expectancy, to quantify and evaluate the potential impact of risks on an
+  organization.
+
+### Incident Management
+
+#### Acronyms
+
+**SIEM** (Security Information and Event Management). Microsoft What
+is [SIEM](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem)
+* **IoC**  indicator of compromise
+* **DREAD** Disaster, Reproducibility, Exploitability, Affected Users, and Discoverability.
+
+#### Terms
+* **threat actor** A threat actor is an individual or group that poses a potential risk to an
+  organization's security by attempting to exploit vulnerabilities, often with malicious intent.
+
+### Intrusion Detection
+
+#### Acronyms
+* **HIDS** (Host-based Intrusion Detection System)
+* **NIDS** (Network-based Intrusion Detection System) is a security solution designed to monitor and
+  analyze network traffic to detect and alert on suspicious activities, potential threats, or
+  unauthorized access attempts within a network.
+* **Honeypot** is a security mechanism set up to detect, deflect, or study attempts at unauthorized
+  access to information systems.
+
+#### Terms
+
+---
+
+### Data Management & Control
+
+#### Acronyms
+* **DLP** Data Loss Prevention
+
+#### Terms
+
+* **Cloud Data Lifecycle** **C**reate **S**tore **U**se **S**hare **A**rchive **D**estroy
+* **Cryptographic erasure** is a method of data destruction where encryption keys are deleted, rendering
+  the encrypted data unreadable and effectively destroyed.
+
+---
+
+### Audits
+
+#### Acronyms
+
+* **SOC 1** report focuses on outsourced services that could impact a company's financial reporting.
+  By providing a SOC 1 report from the third-party, companies can effectively communicate
+  information about their risk management and controls framework to multiple stakeholders.
+
+* **SOC 2** They're intended to help organizations and service providers design and implement their
+  control environment
+
+#### Terms
+
+---

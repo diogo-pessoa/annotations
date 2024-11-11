@@ -123,52 +123,50 @@ Enforce policies governing how shared data should be handled by recipients.
 
 The archiving phase involves moving data to long-term storage for retention purposes.
 
-#### Security Considerations
-
-##### Encryption of Archived Data
-
-Keep archived data encrypted to protect it from unauthorized access.
-
-##### Access Controls
-
-Maintain strict access controls to archived data, ensuring only authorized personnel can retrieve or
-restore it.
-
-##### Retention Policies
-
-Follow regulatory, legal, and organizational retention policies and requirements.
-
-##### Regular Audits
-
-Perform regular audits of archived data to ensure compliance with retention policies and
-regulations.
+* Keep archived data encrypted to protect it from unauthorized access.
+* Have Policies for data archiving that include considerations about legal data retention and
+  deletion requirements and the rotation of encryption keys used to protect long-lived sensitive
+  data.
+* Maintain strict access controls to archived data, ensuring only authorized personnel can retrieve
+  or
+  restore it.
 
 ### 6. Destroy
 
 The destruction phase involves permanently deleting or disposing of data that is no
 longer needed.
 
+* Apply Secure erasure
+* Enforce data destruction policies to comply with legal and regulatory
+  requirements.
+* Audit trail of data destruction activities to provide proof of compliance.
+* Ensure that any third-party service providers handling data destruction
+  adhere to secure practices.
+
 see: [crypto-shredding-cryptographic-erasure](/post/ccsp-datacontrol/#crypto-shredding-cryptographic-erasure)
 
-#### Security Considerations
+{{% notice info "Cryptographic erasure" %}}
+Cryptographic erasure is a method of data destruction where encryption keys are deleted, rendering
+the encrypted data unreadable and effectively destroyed.
+{{% /notice %}}
 
-##### Secure Erasure
+#### Other considerations
 
-Use secure erasure methods (e.g., data wiping, degaussing, physical destruction) to
-ensure data is irrecoverable.
+In regard to `data sanitization`, Consider the service Model when anlying each approach.
 
-##### Policy Enforcement
+* **SaaS** requires special consideration for data sanitization due to data interconnectivity. Since
+  SaaS providers manage the entire infrastructure and application, data destruction relies on
+  contractual requirements. Therefore, customers should ensure their contracts with SaaS providers
+  clearly outline data sanitization processes.
+* **PaaS**  also presents difficulties with data sanitization because customers do not typically
+  have access to the underlying infrastructure.
+  The specifics of data sanitization in a PaaS environment will depend on the software design and
+  data storage mechanisms chosen by the provider. Customers should therefore carefully consider the
+  data lifecycle, including destruction, when choosing a PaaS provider and negotiating contracts.
+* **IaaS** often allocates virtual hard drives to specific virtual machines, which simplifies  
+  data sanitization. Customers have more control over their environments in IaaS, making
+  crypto-shredding a more straightforward process.
 
-Enforce data destruction policies to comply with legal and regulatory
-requirements.
-
-##### Audit Trails
-
-Maintain an audit trail of data destruction activities to provide proof of compliance.
-
-##### Third-party Management
-
-Ensure that any third-party service providers handling data destruction
-adhere to secure practices.
-
-
+**DBaaS** is likely to handle data sanitization similarly to IaaS. Customers will need to rely 
+on the
+provider's processes for data destruction, often implemented through crypto-shredding.
