@@ -1,8 +1,7 @@
 ---
-draft: true
+draft: false
 date: 2024-06-08
 title: "Five stages of grieving when leaving a long-term job"
-description: ""
 slug: "grieving-when-leaving-a-job"
 authors:
   - "Diogo Pessoa"

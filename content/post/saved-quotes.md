@@ -10,6 +10,11 @@ tags:
 
 
 
+>Not being able to govern events, I govern myself — Michel de Montaigne 
+>#Seen on Risky Savvy — Gerd Gigerenzer
+
+---
+
 > “Old George Orwell got it backward. Big Brother isn’t watching. He’s singing and dancing. He’s
 > pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake.
 > He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure
