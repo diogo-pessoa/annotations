@@ -1,25 +1,16 @@
 ---
-title: "CCSP Incident Management"
-date: 2024-11-18T23:34:05Z
-description: "Article description."
-draft: true
-featured: false
-toc: false
+title: "CCSP Incident Management" 
+date: 2024-11-08T15:42:08Z  
+draft: false
+toc: false 
 
-usePageBundles: false
-featureImage: "/images/path/file.jpg"
-featureImageAlt: 'Description of image'
-featureImageCap: 'This is the featured image.'
-thumbnail: "/images/path/thumbnail.png"
-shareImage: "/images/path/share.png"
-codeMaxLines: 10
-codeLineNumbers: false
-figurePositionShow: true
 categories:
-  - Technology
+  - cybersecurity
+  - incident-management
 tags:
-  - Tag_name1
-  - Tag_name2
+  - ccsp
+  - cloud
+  - security-incidents
 
 ---
 
