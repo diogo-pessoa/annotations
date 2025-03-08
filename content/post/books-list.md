@@ -2,7 +2,7 @@
 title: "Great Books"
 date: 2024-07-03
 featured: true
-draft: false 
+draft: true 
 tags:
   - books
   - personal-lists
