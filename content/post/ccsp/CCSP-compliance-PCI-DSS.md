@@ -1,25 +1,19 @@
 ---
 title: "CCSP Compliance PCI DSS"
 date: 2024-11-08T18:03:39Z
-description: "Article description."
-draft: true
+description: "Notes"
+draft: false
 featured: false
 toc: false
 
-usePageBundles: false
-featureImage: "/images/path/file.jpg"
-featureImageAlt: 'Description of image'
-featureImageCap: 'This is the featured image.'
-thumbnail: "/images/path/thumbnail.png"
-shareImage: "/images/path/share.png"
 codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
 categories:
-  - Technology
+  - CCSP
 tags:
-  - Tag_name1
-  - Tag_name2
+  - PCI_DSS
+  - compliance
 
 ---
 

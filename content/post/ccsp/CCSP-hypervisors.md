@@ -1,5 +1,5 @@
 ---
-title: "CCSP Hypervisors"
+title: "CCSP Hypervisors - Notes"
 date: 2024-09-07T18:02:06+01:00
 draft: false
 toc: true

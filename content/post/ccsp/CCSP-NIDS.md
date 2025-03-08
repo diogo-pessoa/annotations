@@ -1,5 +1,5 @@
 ---
-title: "CCSP NIDS" 
+title: "CCSP NIDS - Notes " 
 date: 2024-09-07T17:22:15+01:00 
 description: "Network-based Intrusion Detection System" 
 featured: false 
