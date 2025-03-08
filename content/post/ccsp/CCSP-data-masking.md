@@ -1,5 +1,5 @@
 ---
-title: "CCSP Data Masking"
+title: "CCSP Data Masking - Notes"
 date: 2024-09-07T17:34:22+01:00
 draft: false
 toc: true

@@ -1,5 +1,5 @@
 ---
-title: "CCSP CloudDataLifecycle"
+title: "CCSP CloudDataLifecycle - Notes"
 date: 2024-09-07T13:58:56+01:00
 draft: false
 toc: true

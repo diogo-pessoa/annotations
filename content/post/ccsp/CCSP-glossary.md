@@ -1,5 +1,5 @@
 ---
-title: "CCSP-Glossary"
+title: "CCSP-Glossary -Notes"
 date: 2024-09-02T16:32:31+01:00
 description: "Acronyms, terms with brief descriptions"
 featured: true

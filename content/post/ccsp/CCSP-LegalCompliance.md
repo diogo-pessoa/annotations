@@ -1,7 +1,7 @@
 ---
 title: "CCSP LegalCompliance"
 date: 2024-09-07T16:49:34+01:00
-draft: false
+draft: true
 toc: true
 
 categories:
