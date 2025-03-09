@@ -3,7 +3,7 @@ title: "Python Dev - local Env tools"
 date: 2024-07-06
 description: "grouping tools from my local dev setup."
 featured: false
-draft: false
+draft: true
 toc: true
 usePageBundles: false
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
@@ -53,10 +53,9 @@ python3 -m unittest discover -s tests/ -p '*_test.py'
 * worth mentioning `@unnitest` decorators are great. Sometimes, when not done with a test, just
   `.skip()` for a while.
 
-{{% notice info "Info" %}}
 This is not an excuse to leave tests unfinished. It's a means to an end. If you need to use it too
 often. Refactoring :smile:
-{{% /notice %}}
+
 
 #### unittest + mock, patch
 

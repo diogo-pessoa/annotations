@@ -1,5 +1,5 @@
 ---
-title: "CCSP IAAS SAAS PAAS"
+title: "CCSP IAAS SAAS PAAS - Notes"
 date: 2024-09-08T21:18:03+01:00
 featured: false
 draft: false

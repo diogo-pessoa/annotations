@@ -22,10 +22,7 @@ uma rápida. Um resumo como referência quando/se usar o `mapa()`.
 
 ### Convenções & repositório do snippet do código
 
-{{% notice tip "Tip" %}}
-
 - [a implementação do código](https://github.com/diogo-pessoa/coding-exercises/blob/main/functional-programming/MapTransform.py)
-  {{% /notice %}}
 
 ## A função Map
 

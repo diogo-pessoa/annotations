@@ -1,5 +1,5 @@
 ---
-title: "CCSP Pen Testing" 
+title: "CCSP Pen Testing Notes" 
 date: 2024-09-07T17:53:04+01:00 
 description: 
 featured: false 

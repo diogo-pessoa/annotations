@@ -1,8 +1,8 @@
 ---
-title: "Status Games Playing the Types of Games" 
+title: "Status Games Playing the Types of Games - Notes" 
 date: 2024-09-26T20:17:50+01:00 
 description: "Article description." 
-draft: true 
+draft: false 
 toc: false 
  
 codeMaxLines: 10 
@@ -143,7 +143,6 @@ That’s a fascinating and deep question about whether someone can truly exit a 
    While some people manage to distance themselves from a specific game, often by changing their priorities or rejecting conventional measures of success, the group’s judgment lingers. People who leave can be seen as rebels or failures, depending on the narrative the group chooses to adopt. In rare cases, the person who leaves may be seen as enlightened or above the petty competition, but that itself is a form of status—showing that true escape from status games is almost impossible in human societies.
 
 In conclusion, while an individual might attempt to exit a specific success game, the environment often doesn’t let them completely disengage. The group will continue to assign status, interpret the exit through the lens of hierarchy, and apply social pressure to maintain the status quo. As much as we might try to distance ourselves from status games, they are a fundamental part of human social dynamics, reinforced not just by leaders but by the subtle, often unseen influence of the group—the “tyranny of the cousins.”
-
 
 ...
 

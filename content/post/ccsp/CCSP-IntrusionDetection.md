@@ -1,5 +1,5 @@
 ---
-title: "CCSP IntrusionDetection"
+title: "CCSP IntrusionDetection - Notes"
 date: 2024-09-07T17:03:33+01:00
 draft: false
 toc: true

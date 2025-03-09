@@ -1,5 +1,5 @@
 ---
-title: "CCSP Exam Prep self guide"
+title: "CCSP Exam Prep self guide - Notes"
 date: 2024-09-02T16:45:41+01:00
 draft: false
 toc: true

@@ -89,7 +89,7 @@ enforceLightMode = false
 
 ## Customize Sidebar Disclaimer Text
 sidebardisclaimer = false
-disclaimerText = "Opinions are my own. These are drafts and short-hand notes."
+disclaimerText = "Opinions are my own. These are drafts and short study notes."
 
 # Text for the languages menu.
 languageMenuName = "🌐"

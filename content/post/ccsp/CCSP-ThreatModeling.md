@@ -1,7 +1,7 @@
 ---
 title: "CCSP ThreatModeling" 
 date: 2024-09-07T17:05:20+01:00 
-draft: false
+draft: true
 toc: true
 categories:
   - cybersecurity
@@ -17,7 +17,7 @@ series:
 
 `<WIP>`
 
-added to save the referece links
+Added to save the reference links
 
 
 ## References
