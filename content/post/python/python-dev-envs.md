@@ -53,10 +53,9 @@ python3 -m unittest discover -s tests/ -p '*_test.py'
 * worth mentioning `@unnitest` decorators are great. Sometimes, when not done with a test, just
   `.skip()` for a while.
 
-{{% notice info "Info" %}}
 This is not an excuse to leave tests unfinished. It's a means to an end. If you need to use it too
 often. Refactoring :smile:
-{{% /notice %}}
+
 
 #### unittest + mock, patch
 

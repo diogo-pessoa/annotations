@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "annotations/"  # Include trailing slash
-copyright = "Diogo P. personal notes"
+baseurl = "notes/"  # Include trailing slash
+copyright = "Diogo P."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"

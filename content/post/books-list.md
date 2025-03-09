@@ -1,5 +1,5 @@
 ---
-title: "Great Books"
+title: "Book list"
 date: 2024-07-03
 featured: true
 draft: true 
