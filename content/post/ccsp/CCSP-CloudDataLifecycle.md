@@ -145,10 +145,10 @@ longer needed.
 
 see: [crypto-shredding-cryptographic-erasure](/post/ccsp-datacontrol/#crypto-shredding-cryptographic-erasure)
 
-{{% notice info "Cryptographic erasure" %}}
+
 Cryptographic erasure is a method of data destruction where encryption keys are deleted, rendering
 the encrypted data unreadable and effectively destroyed.
-{{% /notice %}}
+
 
 #### Other considerations
 

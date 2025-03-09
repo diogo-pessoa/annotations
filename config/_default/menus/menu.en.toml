@@ -21,7 +21,7 @@ url = "/series/lyrics/"
 [[main]]
 parent = "Notes"
 name = "Books"
-url = "post/books-list/"
+url = "/post/books-list/"
 
 [[main]]
 parent = "Notes"

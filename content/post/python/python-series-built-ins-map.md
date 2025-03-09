@@ -23,10 +23,9 @@ summary as reference when/if using the `map()`.
 
 ### Conventions & Code
 
-{{% notice tip "Tip" %}}
 
 - [My code implementation](https://github.com/diogo-pessoa/coding-exercises/blob/main/functional-programming/MapTransform.py)
-  {{% /notice %}}
+
 
 ## The Map function
 
