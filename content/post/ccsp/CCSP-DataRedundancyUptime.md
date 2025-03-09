@@ -1,9 +1,9 @@
 ---
-title: "CCSP - Data Redundancy Uptime"
+title: "CCSP - Data Redundancy Uptime - Notes"
 date: 2024-09-02T16:32:31+01:00 
 description: "The Uptime Institute has established a **Tier Standard** with four levels"
 featured: false
-draft: true 
+draft: false 
 toc: true
 categories:
   - cybersecurity

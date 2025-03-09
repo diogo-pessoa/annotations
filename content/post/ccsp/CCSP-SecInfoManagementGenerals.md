@@ -1,5 +1,5 @@
 ---
-title: "CCSP SecInfoManagementGenerals"
+title: "CCSP Security Information management notes"
 date: 2024-09-07T17:02:03+01:00 
 draft: false 
 toc: false 
@@ -84,5 +84,5 @@ series:
 
 **SIM** systems are primarily focused on collecting and storing security data for historical analysis, while **SIEM** systems provide a more comprehensive approach by combining data collection, real-time monitoring, threat detection, and automated response capabilities. 
 
-SIEM solutions are widely used today to enhance an organization's security posture by providing real-time insights into potential threats and enabling faster and more effective incident response.
+**SIEM** solutions are widely used today to enhance an organization's security posture by providing real-time insights into potential threats and enabling faster and more effective incident response.
 

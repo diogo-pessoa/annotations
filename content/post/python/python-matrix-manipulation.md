@@ -3,7 +3,7 @@ title: "Python Matrix Manipulation"
 date: 2024-07-03
 description: "Python Matrix Manipulation exercises from OCW Introduction to Linear Algebra"
 featured: false
-draft: true
+draft: false
 toc: true
 # menu: main
 usePageBundles: false

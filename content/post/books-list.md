@@ -1,8 +1,8 @@
 ---
-title: "Great Books"
+title: "Book list"
 date: 2024-07-03
 featured: true
-draft: false 
+draft: true 
 tags:
   - books
   - personal-lists

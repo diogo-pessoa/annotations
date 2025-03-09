@@ -1,25 +1,19 @@
 ---
 title: "CCSP Compliance Iso Iec 27001" 
 date: 2024-11-08T17:37:48Z 
-description: "Article description." 
+description: "Notes" 
 draft: true 
 featured: false
 toc: false 
 
 usePageBundles: false 
-featureImage: "/images/path/file.jpg" 
-featureImageAlt: 'Description of image' 
-featureImageCap: 'This is the featured image.' 
-thumbnail: "/images/path/thumbnail.png" 
-shareImage: "/images/path/share.png" 
 codeMaxLines: 10 
 codeLineNumbers: false 
 figurePositionShow: true 
 categories:
-  - Technology
+  - CCSP
 tags:
-  - Tag_name1
-  - Tag_name2
+  - ISO27001
 
 ---
 
