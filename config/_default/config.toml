@@ -3,7 +3,7 @@
 baseurl = "notes/"  # Include trailing slash
 copyright = "Diogo P."
 # canonifyurls = true
-paginate = 10
+pagination.pagerSize = 10
 theme = "hugo-clarity"
 disqusShortname = ""
 

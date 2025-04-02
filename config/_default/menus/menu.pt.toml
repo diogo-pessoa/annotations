@@ -3,12 +3,6 @@
 #  url = ""
 #  weight = -110
 
-[[main]]
-  parent = "Posts técnicos"
-  name = "Python"
-  urtl = "/tags/python/"
-
-
 # social menu links
 
 [[social]]
