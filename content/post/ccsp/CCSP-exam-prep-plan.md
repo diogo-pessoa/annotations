@@ -1,7 +1,7 @@
 ---
 title: "CCSP Exam Prep self guide - Notes"
 date: 2024-09-02T16:45:41+01:00
-draft: false
+draft: true
 toc: true
 categories:
   - cybersecurity
@@ -16,8 +16,6 @@ series:
 ### Exam Prep Plan
 
 `(WIP)`
-
-token
 
 Mike Chapple. Mike Chapple, David Seidl - (ISC)2 CCSP Certified Cloud Security Professional Official
 Study Guide-Sybex (2022) (p. 79). Kindle Edition.
