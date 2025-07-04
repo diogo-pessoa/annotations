@@ -5,7 +5,7 @@ featured: false
 draft: false
 toc: true
 categories:
-  - cybersecurity
+  - automation
 tags:
   - argocd
   - gitops
