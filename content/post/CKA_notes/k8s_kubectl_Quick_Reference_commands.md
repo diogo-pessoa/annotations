@@ -455,6 +455,21 @@ kubectl get pods -A -o=custom-columns='DATA:spec.containers[?(@.image!="registry
 kubectl get pods -A -o=custom-columns='DATA:metadata.*'
 ```
 
+### Checking Node Max Nodes to allocate
+
+```bash 
+kubectl get nodes -o custom-columns=NAME:.metadata.name,PODS-CAPACITY:.status.capacity.pods,PODS-ALLOCATABLE:.status.allocatable.pods
+NAME                                  PODS-CAPACITY   PODS-ALLOCATABLE
+node1                                 10              10
+node2                                 10              10
+```
+
+#### How Many pods in each node
+
+```bash 
+kubectl get pods --all-namespaces -o wide --no-headers | awk '{print $8}' | sort | uniq -c
+
+```
 
 
 #### check containers
