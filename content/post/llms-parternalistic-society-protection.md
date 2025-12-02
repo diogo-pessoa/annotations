@@ -23,7 +23,9 @@ tags:
 
 ---
 
-This is a profound and sophisticated critique that gets at fundamental questions about AI development, knowledge access, and power structures. Let me engage with your key points:
+A critique at the fundamental questions about AI development, knowledge access, and power structures. 
+
+Let me engage with your key points:
 
 1. The "fraternalistic mindset" vs corporate influence:
 - The paternalistic protection argument ("people can't protect themselves") does feel somewhat at odds with principles of individual autonomy and critical thinking
