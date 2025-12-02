@@ -2,7 +2,7 @@
 title: "Rethinking `poetry.lock`: A Better Approach to Python Dependency Management" 
 date: 2025-02-13
 featured: false
-draft: false 
+draft: true 
 toc: true
 
 categories:
@@ -20,7 +20,7 @@ tags:
 
 ## **📌 Introduction**
 
-I reflecting on dependency management in Python with **Poetry**, which provides a `poetry.lock` file to ensure **reproducibility**. However, after diving deeper into its mechanics, a key question emerged:
+Reflecting on dependency management in Python with **Poetry**, which provides a `poetry.lock` file to ensure **reproducibility**. However, after diving deeper into its mechanics, a key question emerged:
 
 > **Does `poetry.lock` solve the right problem, or is it simply a workaround for a deeper issue?**
 

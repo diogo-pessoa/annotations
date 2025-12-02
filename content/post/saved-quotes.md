@@ -1,6 +1,7 @@
 ---
 title: "Collection of saved Quotes"
 date: 2024-06-29
+featured: true
 draft: false
 categories:
   - Reflections
@@ -9,6 +10,10 @@ tags:
 ---
 
 
+>“The place to improve the world is first in one's own heart and head and hands, and then work outward from there.”
+> #Seen in  Zen and the Art of Motorcycle Maintenance ― Robert M. Pirsig
+
+---
 
 >Not being able to govern events, I govern myself — Michel de Montaigne 
 >#Seen on Risky Savvy — Gerd Gigerenzer
