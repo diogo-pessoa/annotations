@@ -16,7 +16,8 @@ categories:
 tags:
   - Python
   - Matrix
-comment: false # Disable comment if false.
+series:
+  - diary-of-a-flawed-pythonista
 ---
 
 **Warning:** Note to self, this is in-progress and being updated ad-hoc, whenever I get a chance to
