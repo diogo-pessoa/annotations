@@ -1,3 +1,37 @@
+
+# Work brainDumps
+[[main]]
+  parent = "WorkHacks"
+  name = "Python stuff"
+  url = "/series/diary-of-a-flawed-pythonista/"
+
+[[main]]
+parent = "WorkHacks"
+name = "sysAdmin"
+url = "/tags/sysAdmin/"
+
+[[main]]
+parent = "WorkHacks"
+name = "RCAs"
+url = "/series/rcas/"
+
+# personal brainDumps
+
+[[main]]
+parent = "other Great stuff"
+name = "Books to read again"
+url = "post/books-list/"
+
+[[main]]
+parent = "other Great stuff"
+name = "Favorite quotes"
+url = "post/saved-quotes"
+
+[[main]]
+parent = "other Great stuff"
+name = "poems to remember"
+url = "/series/poems/"
+
 # social menu links
 
 [[social]]
