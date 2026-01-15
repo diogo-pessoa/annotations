@@ -15,7 +15,7 @@ introURL = "https://diogo-pessoa.github.io/" # set the url for the 'read more' b
 ga_analytics = "G-S9DTL6G7YC"
 
 # Google tag manager
-google_tag_manager_id = ""
+google_tag_manager_id = "G-S9DTL6G7YC"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
