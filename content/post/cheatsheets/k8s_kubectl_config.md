@@ -1,12 +1,11 @@
 ---
-title: "K8S - kube-config cmds"
-date: 2025-02-04T11:25:54Z
-draft: false
-featured: false
-toc: false
-
-codeMaxLines: 10
-codeLineNumbers: false
+title:              "K8S - kube-config cmds"
+date:               2025-02-04T11:25:54Z
+draft:              false
+featured:           false
+toc:                false
+codeMaxLines:       10
+codeLineNumbers:    false
 figurePositionShow: true
 categories:
   - k8s
@@ -17,57 +16,60 @@ tags:
   - troubleshooting
 ---
 
-k8s kubectl config
+Kubernetes kubectl config snippets.
 
-### use-context
+### Use context
 
-```
+```bash
 kubectl config use-context kubernetes-admin@kubernetes
 ```
 
+### Set current context namespace
 
-#### setting current context namespace
-
-
-```
+```bash
 kubectl config set-context --current --namespace=application1
 ```
 
 ### Working with multiple contexts
 
-* [Authenticating Across Clusters with kubeconfig](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+- [Authenticating Across Clusters with kubeconfig](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 
 ```bash
-# Show Merged kubeconfig settings.
-kubectl config view 
+# Show merged kubeconfig settings.
+kubectl config view
 
-# use multiple kubeconfig files 
-#at the same time and view merged config
+# Use multiple kubeconfig files at the same time and view merged config.
 KUBECONFIG=~/.kube/config:~/.kube/kubconfig2
+kubectl config view
 ```
 
-### config  view password
+### View password
 
 ```bash
-# get the password for the e2e user
+# Get the password for the e2e user.
 kubectl config view \
--o jsonpath='{.users[?(@.name == "e2e")].user.password}'
+  -o jsonpath='{.users[?(@.name == "e2e")].user.password}'
 ```
 
-### config view certificate for e2e User
+### View certificate for e2e user
+
 ```bash
-# get the certificate for the e2e user
+# Get the certificate for the e2e user.
 kubectl config view --raw \
--o jsonpath='{.users[?(.name == 'e2e')].user.client-certificate-data}'\
-| base64 -d
+  -o jsonpath='{.users[?(@.name == "e2e")].user.client-certificate-data}' \
+  | base64 -d
 ```
 
+### Get users
 
-### config get users
+#### Display the first user
 
-##### display the first user
+```bash
+kubectl config view -o jsonpath='{.users[].name}'
+```
 
-```bash kubectl config view -o jsonpath='{.users[].name}'```
+#### List users
 
-##### list users
-```bash kubectl config view -o jsonpath='{.users[*].name}' ```
+```bash
+kubectl config view -o jsonpath='{.users[*].name}'
+```
