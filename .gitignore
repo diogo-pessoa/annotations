@@ -25,3 +25,4 @@ go.work.sum
 .idea/
 .hugo_build.lock
 .DS_Store
+AGENTS.md

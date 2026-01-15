@@ -3,11 +3,8 @@ title: "Python Dev - local Env tools"
 date: 2024-07-06
 description: "grouping tools from my local dev setup."
 featured: false
-draft: true
+draft: false
 toc: true
-usePageBundles: false
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
 categories:
   - coding
 tags:
