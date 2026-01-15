@@ -15,6 +15,11 @@ parent = "WorkHacks"
 name = "RCAs"
 url = "/series/rcas/"
 
+[[main]]
+parent = "WorkHacks"
+name = "CCSP Study drafts"
+url = "/tags/ccsp/"
+
 # personal brainDumps
 
 [[main]]
