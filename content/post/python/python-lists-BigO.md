@@ -1,11 +1,11 @@
 ---
-draft: false
+draft: true
 date: 2024-07-13
 title: "Big O for Python lists"
 slug: "Python-lists-BigO"
 authors: "Diogo Pessoa"
-codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
-codeLineNumbers: false # Override global value for showing of line numbers within code block.
+codeMaxLines: 10 
+codeLineNumbers: false 
 categories:
   - coding
 tags:

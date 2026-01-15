@@ -1,8 +1,8 @@
 ---
-title:    "tips and saved commands for log parsing and troubleshooting"
+title:    "Linux commands cheatsheet"
 date:     2026-01-15T10:00:01Z
 draft:    true
-featured: false
+featured: true
 toc:      true
 
 categories:
@@ -331,10 +331,61 @@ ss -s
 
 ### netstat
 
----
+```bash 
+netstat -tulpn
+#t → TCP
+#u → UDP
+#l → listening
+#p → process
+#n → numeric (no DNS)
+```
+
+#### Show active connections
+```bash
+netstat -ant
+
+```
+
+#### filter by port 
+
+```bash
+netstat -ant | grep ":443"
+
+```
+
+#### Show by TCP state
+
+```bash
+
+netstat -ant | awk '{print $6}' | sort | uniq -c
+
+```
+
+#### Check process by port
+
+```bash
+netstat -tulpn | grep ":8080"
 
 
-# Show interfaces
+```
+
+#### show routing table
+
+```bash
+
+netstat -rn
+
+```
+
+#### Show interface stats
+
+```bash
+netstat -i
+```
+
+
+### ip
+#  Show interfaces
 ip addr show
 
 # Show routing table

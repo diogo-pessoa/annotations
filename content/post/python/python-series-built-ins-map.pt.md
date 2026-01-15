@@ -8,7 +8,7 @@ tags = ["python", "functional-programming"]
 categories = ["coding"]
 series = ["python built-ins"]
 toc = true
-draft = false
+draft = true
 +++
 
 ## Sumário

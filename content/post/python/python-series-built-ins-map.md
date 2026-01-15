@@ -1,15 +1,17 @@
-+++
-date = "2024-06-30"
-title = "Exploring Python built-ins: map()"
-description = "Does using the map() makes it easier to transform values through iterables?"
-slug = "python-map-transforming-values"
-authors = "Diogo Pessoa"
-tags = ["python", "functional-programming"]
-categories = ["coding"]
-series = ["python built-ins"]
-toc = true
-draft = false
-+++
+---
+date: 2024-06-30
+title: "Exploring Python built-ins: map()"
+description: "Does using the map() makes it easier to transform values through iterables?"
+toc: true
+draft: false
+categories:
+  - coding
+tags:
+  - python
+  - in-hindsight
+series:
+  - diary-of-a-flawed-pythonista
+---
 
 ## Summary
 

@@ -2,7 +2,7 @@
 title: "Python Dev - local Env tools"
 date: 2024-07-06
 description: "grouping tools from my local dev setup."
-featured: false
+featured: true
 draft: false
 toc: true
 categories:

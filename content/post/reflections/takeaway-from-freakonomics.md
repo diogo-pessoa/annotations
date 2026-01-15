@@ -1,9 +1,8 @@
 ---
-title: "Takeaway From Freakonomics" # Title of the blog post.
-date: 2024-07-28T18:14:21+01:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
+title: "Takeaway From Freakonomics" 
+date: 2024-07-28T18:14:21+01:00 
+draft: true 
+toc: false 
 
 categories:
   - Reflections
