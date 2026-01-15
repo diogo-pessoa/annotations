@@ -1,5 +1,5 @@
 ---
-title: "Collection of saved Quotes"
+title: "Great Quotes"
 date: 2024-06-29
 featured: true
 draft: false
@@ -9,6 +9,11 @@ tags:
   - quotes
 ---
 
+
+>“Things turn out best for the people who make the best of the way things turn out.”
+>— John Wooden.
+
+---
 
 >“The place to improve the world is first in one's own heart and head and hands, and then work outward from there.”
 > #Seen in  Zen and the Art of Motorcycle Maintenance ― Robert M. Pirsig

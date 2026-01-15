@@ -1,10 +1,10 @@
 [en]
-  title = "Study drafts"
+  title = "BrainDump"
   LanguageName = "English"
   weight = 1
 
 [pt]
-  title = "Rascunhos" # just for the sake of showing this is possible
+  title = "BrainDump" # just for the sake of showing this is possible
   LanguageName = "Português"
   weight = 2
 

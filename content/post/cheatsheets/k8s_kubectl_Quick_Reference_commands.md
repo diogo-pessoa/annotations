@@ -10,9 +10,12 @@ codeLineNumbers: false
 figurePositionShow: true
 categories:
   - k8s
+  - troubleshooting
 tags:
   - k8s
   - cheatsheet
+  - sysAdmin
+  - troubleshooting
 
 ---
  
