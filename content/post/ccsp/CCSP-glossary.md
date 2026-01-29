@@ -5,15 +5,9 @@ description: "Acronyms, terms with brief descriptions"
 featured: false
 draft: false
 toc: true
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-guide
-  - cloud
   - glossary
-series:
-  - ccsp-exam-prep
 ---
 
 ### Drafts

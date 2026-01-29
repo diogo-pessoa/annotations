@@ -10,9 +10,6 @@ usePageBundles: false
 codeMaxLines: 10 
 codeLineNumbers: false 
 figurePositionShow: true 
-categories:
-  - "coding" 
-  - "Linear Algebra"
 tags:
   - Python
   - Matrix

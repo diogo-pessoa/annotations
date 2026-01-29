@@ -3,16 +3,9 @@ title: "CCSP ThreatModeling"
 date: 2024-09-07T17:05:20+01:00 
 draft: true
 toc: true
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-guide
-  - cloud
-  - SDLC
   - threat-modeling
-series:
-  - ccsp-exam-prep
 ---
 
 `<WIP>`

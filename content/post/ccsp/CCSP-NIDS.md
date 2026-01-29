@@ -6,18 +6,9 @@ featured: false
 draft: false 
 toc: true
 
-categories:
-   - cybersecurity
 tags:
    - ccsp
-   - exam-guide
-   - cloud
-   - data-masking
-   - Data-management
-   - IDS
    - NIDS
-series:
-   - ccsp-exam-prep
 
 ---
 

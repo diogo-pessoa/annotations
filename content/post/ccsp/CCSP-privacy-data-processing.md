@@ -3,15 +3,8 @@ title: "CCSP Privacy Data Processing"
 date: 2024-09-07T17:13:25+01:00 
 draft: false 
 toc: true
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-guide
-  - privacy
-  - Data-management
-series:
-  - ccsp-exam-prep
 ---
 
 **Privacy data processing** refers to the handling, management, and use of personal data in a way

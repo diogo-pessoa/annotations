@@ -9,10 +9,10 @@ toc: false
 codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
-categories:
-  - CCSP
+
 tags:
   - GAPP
+  - ccsp
 
 ---
 

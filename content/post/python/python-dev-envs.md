@@ -5,8 +5,6 @@ description: "grouping tools from my local dev setup."
 featured: false
 draft: false
 toc: true
-categories:
-  - coding
 tags:
   - python
   - in-hindsight

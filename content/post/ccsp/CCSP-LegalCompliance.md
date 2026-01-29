@@ -3,17 +3,8 @@ title: "CCSP LegalCompliance"
 date: 2024-09-07T16:49:34+01:00
 draft: true
 toc: true
-
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-prep
-  - cloud
-  - data-masking
-  - Data-management
-series:
-  - ccsp-exam-prep
 ---
 
 ## Legal

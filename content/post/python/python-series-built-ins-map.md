@@ -4,8 +4,6 @@ title: "Exploring Python built-ins: map()"
 description: "Does using the map() makes it easier to transform values through iterables?"
 toc: true
 draft: false
-categories:
-  - coding
 tags:
   - python
   - in-hindsight
