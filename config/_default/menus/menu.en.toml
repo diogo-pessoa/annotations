@@ -23,17 +23,17 @@ url = "/tags/ccsp/"
 # personal brainDumps
 
 [[main]]
-parent = "other Great stuff"
+parent = "Content worth revisiting"
 name = "Books to read again"
 url = "post/books-list/"
 
 [[main]]
-parent = "other Great stuff"
+parent = "Content worth revisiting"
 name = "Favorite quotes"
 url = "post/saved-quotes"
 
 [[main]]
-parent = "other Great stuff"
+parent = "Content worth revisiting"
 name = "poems to remember"
 url = "/series/poems/"
 

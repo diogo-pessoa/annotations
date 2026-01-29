@@ -10,8 +10,6 @@ categories:
 tags:
   - Invictus
   - William Ernest Henley
-series:
-  - Poems
 
 ---
 
