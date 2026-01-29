@@ -1,16 +1,10 @@
 ---
 title: "Invictus by William Ernest Henley" 
 date: 2024-10-19T19:58:20+01:00 
-description: "" 
 draft: false 
-featured: false
- 
 categories:
   - Poems
-tags:
-  - Invictus
-  - William Ernest Henley
-
+tags: []
 ---
 
 ## William Ernest Henley

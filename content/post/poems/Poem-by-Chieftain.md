@@ -7,9 +7,7 @@ featured: false
 toc: false
 categories:
   - Poems
-tags:
-  - Tecumseh
-
+tags: []
 ---
 
 `Which book I saw this?`  

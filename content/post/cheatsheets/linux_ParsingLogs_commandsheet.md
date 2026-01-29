@@ -2,7 +2,7 @@
 title:    "Linux `LogParsers` cheatsheet"
 date:     2026-01-15
 draft:    false
-featured: true
+featured: false
 toc:      true
 
 categories:
