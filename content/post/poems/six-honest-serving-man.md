@@ -8,8 +8,6 @@ categories:
   - Poems
 tags:
   - Rudyard Kipling
-series:
-  - Poems
 
 ---
 

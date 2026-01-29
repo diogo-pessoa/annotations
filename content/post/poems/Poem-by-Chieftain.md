@@ -9,8 +9,6 @@ categories:
   - Poems
 tags:
   - Tecumseh
-series:
-  - Poems
 
 ---
 

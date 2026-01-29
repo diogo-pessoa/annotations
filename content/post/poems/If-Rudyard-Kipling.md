@@ -7,8 +7,6 @@ categories:
 tags:
   - If
   - Kipling
-series:
-  - Poems
 
 ---
 
