@@ -2,7 +2,7 @@
 title: "Python Dev - local Env tools"
 date: 2024-07-06
 description: "grouping tools from my local dev setup."
-featured: true
+featured: false
 draft: false
 toc: true
 categories:
@@ -65,9 +65,8 @@ often. Refactoring :smile:
 from unittest.mock import patch, MagicMock
 
 @patch('os.makedirs')
-    def test_create_local_dir_creates_directory_when_not_exists(self,
-                                                                mock_makedirs):
-                                                                
+def test_create_local_dir_creates_directory_when_not_exists(self,
+                                                                mock_makedirs):                                                                
     # pylint: disable=protected-access
         assert data_loader._create_local_dir('test_dir')
         mock_makedirs.assert_called_once_with('test_dir')
