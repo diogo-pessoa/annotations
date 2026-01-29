@@ -1,40 +1,40 @@
 
-# Work brainDumps
+# My work output
 [[main]]
-  parent = "WorkHacks"
-  name = "Python stuff"
+  parent = "Output"
+  name = "Python dumps"
   url = "/series/diary-of-a-flawed-pythonista/"
 
 [[main]]
-parent = "WorkHacks"
-name = "sysAdmin"
+  parent = "Output"
+  name = "Linux commands cheatsheets"
+  url = "/series/linux_cheatsheet/"
+
+[[main]]
+parent = "Output"
+name = "sysAdmin cheatsheets"
 url = "/tags/sysAdmin/"
 
 [[main]]
-parent = "WorkHacks"
-name = "RCAs"
-url = "/series/rcas/"
-
-[[main]]
-parent = "WorkHacks"
-name = "CCSP Study drafts"
+parent = "Output"
+name = "CCSP exam prep notes"
 url = "/tags/ccsp/"
 
-# personal brainDumps
+# Stuff I read
 
 [[main]]
-parent = "Content worth revisiting"
+parent = "Input"
 name = "Books to read again"
 url = "post/books-list/"
 
 [[main]]
-parent = "Content worth revisiting"
+parent = "Input"
 name = "Favorite quotes"
 url = "post/saved-quotes"
 
 [[main]]
-parent = "Content worth revisiting"
-name = "poems to remember"
+parent = "Input"
+name = "Favorites Poems"
 url = "/series/poems/"
 
 # social menu links

@@ -108,10 +108,10 @@ comments = false
 # utterancesIssueTerm = "pathname" # Default: pathname
 
 # Maximum number of recent posts. (default: 8)
-numberOfRecentPosts = 4
+numberOfRecentPosts = 2
 
 # Maximum number of featured posts. (default: 8)
-# numberOfFeaturedPosts = 8
+ numberOfFeaturedPosts = 2
 
 # Pin featured posts in list.
 # pinFeatured = true

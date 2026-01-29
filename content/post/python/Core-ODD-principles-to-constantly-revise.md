@@ -4,8 +4,6 @@ date: 2026-01-16
 featured: false
 draft: false
 toc: true
-categories:
-  - coding
 tags:
   - python
 series:

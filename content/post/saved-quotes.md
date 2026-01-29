@@ -3,8 +3,6 @@ title: "Great Quotes"
 date: 2024-06-29
 featured: true
 draft: false
-categories:
-  - Reflections
 tags:
   - quotes
 ---

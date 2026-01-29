@@ -5,8 +5,8 @@ title: "Five stages of grieving when leaving a long-term job"
 slug: "grieving-when-leaving-a-job"
 authors:
   - "Diogo Pessoa"
-categories:
-  - "Reflections"
+tags:
+  - 'Reflections'
 toc: true
 ---
 

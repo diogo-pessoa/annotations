@@ -6,9 +6,7 @@ featured: false
 toc: false  
 categories:
   - Poems
-tags:
-  - Rudyard Kipling
-
+tags: []
 ---
 
 
