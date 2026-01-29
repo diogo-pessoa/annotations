@@ -8,8 +8,6 @@ categories:
   - coding
 tags:
   - python
-  - ODD
-  - coding
 series:
   - diary-of-a-flawed-pythonista
 ---

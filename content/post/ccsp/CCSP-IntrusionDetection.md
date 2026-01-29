@@ -3,16 +3,9 @@ title: "CCSP IntrusionDetection - Notes"
 date: 2024-09-07T17:03:33+01:00
 draft: false
 toc: true
-
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-prep
-  - cloud
   - IDS
-series:
-  - ccsp-exam-prep
 ---
 
 **HIDS (Host-based Intrusion Detection System)** and **Honeypot** are both cybersecurity tools used to detect, monitor,

@@ -6,11 +6,8 @@ slug: "Python-lists-BigO"
 authors: "Diogo Pessoa"
 codeMaxLines: 10 
 codeLineNumbers: false 
-categories:
-  - coding
 tags:
   - python
-  - in-hindsight
 series:
   - diary-of-a-flawed-pythonista
 

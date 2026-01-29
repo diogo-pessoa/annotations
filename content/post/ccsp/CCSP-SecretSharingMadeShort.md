@@ -4,17 +4,8 @@ date: 2024-09-07T17:32:59+01:00
 featured: false 
 draft: false
 toc: true
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-guide
-  - cloud
-  - Data-protection
-  - cyphers
-  - cryptography
-series:
-  - ccsp-exam-prep
 ---
 
 **Secret Sharing Made Short (SSMS)** is a cryptographic protocol used to securely distribute a secret (such as a

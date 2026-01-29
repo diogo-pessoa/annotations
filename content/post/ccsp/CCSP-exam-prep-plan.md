@@ -1,16 +1,11 @@
 ---
 title: "CCSP Exam Prep self guide - Notes"
 date: 2024-09-02T16:45:41+01:00
-draft: true
+draft: false
 toc: true
-categories:
-  - cybersecurity
 tags:
   - ccsp
   - exam-guide
-  - cloud
-series:
-  - ccsp-exam-prep
 ---
 
 ### Exam Prep Plan

@@ -4,11 +4,8 @@ date: 2026-01-27
 featured: false
 draft: false
 toc: true
-categories:
-  - coding
 tags:
   - python
-  - coding
   - sysAdmin
 series:
   - diary-of-a-flawed-pythonista

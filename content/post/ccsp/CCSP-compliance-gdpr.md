@@ -5,15 +5,11 @@ description: "GDPR Notes"
 draft: true
 featured: false
 toc: false
-
 codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
-categories:
-  - CCSP
 tags:
   - gdpr
-  - notes
 
 ---
 

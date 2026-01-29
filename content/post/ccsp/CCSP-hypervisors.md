@@ -3,15 +3,8 @@ title: "CCSP Hypervisors - Notes"
 date: 2024-09-07T18:02:06+01:00
 draft: false
 toc: true
-categories:
-  - CCSP
 tags:
   - ccsp
-  - exam-guide
-  - hypervisors
-  - virtualization
-series:
-  - ccsp-exam-prep
 ---
 
 **Hypervisors**, also known as **Virtual Machine Monitors (VMMs)**, are software or hardware

@@ -5,7 +5,6 @@ description = "Usando o map() é melhor quando processando iterables?"
 slug = "python-map-transforming-values"
 authors = "Diogo Pessoa"
 tags = ["python", "functional-programming"]
-categories = ["coding"]
 series = ["python built-ins"]
 toc = true
 draft = true

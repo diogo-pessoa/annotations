@@ -5,15 +5,13 @@ description: "Notes"
 draft: false
 featured: false
 toc: false
-
 codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
-categories:
-  - CCSP
 tags:
   - PCI_DSS
   - compliance
+  - ccsp
 
 ---
 

@@ -7,7 +7,6 @@ toc:      true
 
 categories:
   - troubleshooting
-  - linux
 tags:
   - linux
   - bash

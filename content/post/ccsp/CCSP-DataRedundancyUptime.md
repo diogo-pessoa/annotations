@@ -5,18 +5,9 @@ description: "The Uptime Institute has established a **Tier Standard** with four
 featured: false
 draft: false 
 toc: true
-categories:
-  - cybersecurity
-  - CCSP_PlatInf
 tags:
   - ccsp
-  - exam-prep
-  - cloud
-  - DataCenter
   - Data
-  - Tiers
-series:
-  - ccsp-exam-prep
 ---
 
 ## Summary

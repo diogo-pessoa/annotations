@@ -3,17 +3,9 @@ title: "CCSP Risk Assessment"
 date: 2024-09-07T18:46:42+01:00
 draft: false
 toc: true
-
-categories:
-  - cybersecurity
 tags:
   - ccsp
-  - exam-guide
-  - cloud
-  - risk-assessment
-  - risk
-series:
-  - ccsp-exam-prep
+
 
 ---
 

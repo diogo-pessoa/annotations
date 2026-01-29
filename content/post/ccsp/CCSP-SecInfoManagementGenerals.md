@@ -3,18 +3,8 @@ title: "CCSP Security Information management notes"
 date: 2024-09-07T17:02:03+01:00 
 draft: false 
 toc: false 
-
-categories:
-  - cybersecurity
-  - CCSP-SIM
 tags:
   - ccsp
-  - exam-guide
-  - exam-prep
-  - cloud
-  - Data-management
-series:
-  - ccsp-exam-prep
 ---
 
 **SIM (Security Information Management)** and **SIEM (Security Information and Event Management)** are both technologies used in cybersecurity to monitor, analyze, and manage security events and information. However, SIEM is a more advanced and comprehensive solution that has evolved from earlier SIM and SEM (Security Event Management) systems. 

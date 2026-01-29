@@ -3,16 +3,8 @@ title: "CCSP CloudDataLifecycle - Notes"
 date: 2024-09-07T13:58:56+01:00
 draft: false
 toc: true
-categories:
-  - cybersecurity
-  - CCSP-DataControl
 tags:
   - ccsp
-  - exam-guide
-  - cloud
-  - Data-management
-series:
-  - ccsp-exam-prep
 
 ---
 

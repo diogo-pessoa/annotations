@@ -4,16 +4,8 @@ date: 2024-09-08T21:18:03+01:00
 featured: false
 draft: false
 toc: false
-
-categories:
-  - cybersecurity
-  - cloud-infrastructure
 tags:
   - ccsp
-  - cloud
-  - platform
-series:
-  - ccsp-exam-prep
 ---
 
 Summary of **PaaS (Platform as a Service), DaaS (Desktop as a Service), IaaS (Infrastructure as a Service),** and *
