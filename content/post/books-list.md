@@ -63,6 +63,7 @@ tags:
 
 ### Philosophy
 
+- **_The Demon-Haunted World: Science as a Candle in the Dark_** – Carl Sagan, ann Druyan
 - **_Zen and the Art of Motorcycle Maintenance_** - Robert M. Pirsig
 - **_Anti Fragile_** - Nassim Nicholas Taleb
 - **_Skin in the Game_** - Nassim Nicholas Taleb
