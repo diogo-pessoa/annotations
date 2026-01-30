@@ -25,6 +25,7 @@ tags:
 - **_Red Mars_** - Kim Stanley Robinson
 - **_Hitchhiker's Guide to the Galaxy_** - Douglas Adams
 - **_Shantaram_** - Gregory David Roberts
+- **_Siddhartha_** - Herman Hesse
 
 ###  Spanish
 
@@ -49,6 +50,7 @@ tags:
 - **_The Black Swan_** - Nassim Nicholas Taleb
 - **_Everbody Lies_** - Seth Stephens-Davidowitz
 - **_The Art of Statistics_** - David Spiegelhalter
+- **_Nudge: Improving Decisions About Money, Health, and the Environment_** – Richard H. Thaler, Cass R. Sunstein
 
 ### Artificial Intelligence and Machine Learning
 
@@ -114,6 +116,11 @@ tags:
 - **_Ordinary men_**
 - **_Band of Brothers_** - Stephen E. Ambrose
 
+#### Politics & Economics
+
+- **_Technofeudalism: What Killed Capitalism_** - Yanis Varoufakis
+- **_Freakonomics_** – Stephen J. Dubner, Steven D. Levitt
+- **_The Right to Privacy_** – Douglas Harvey
 #### History in the making
 
 - **_Food Politics_** - Marion Nestle
@@ -135,14 +142,14 @@ tags:
 - **_Born Standing Up_** - Steve Martin
 - **_Born a Crime_** - Trevor Noah
 - **_Memories from my father_** - Barack Obama
-
-
+- **_Some time with Feynman_** – Leonard Mlodinow
+- **_Surely You're Joking, Mr. Feynman!_** – Richard P. Feynman
+- **_Poor Charlie’s Almanack_** – Charles T. Munger
 
 #### [Ajham Brahm](https://www.youtube.com/watch?v=bekYLQ5buRQ))
 
 - **_Mindfulness, Bliss and Beyond_** - Ajham Brahm
 - **_Who ordered this truckload of dung_** - Ajham Brahm
-- **_Siddhartha_** - Herman Hesse
 
 ### Time Management
 
