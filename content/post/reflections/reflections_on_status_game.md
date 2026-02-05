@@ -5,15 +5,8 @@ date: 2026-01-14T10:00:01Z
 draft: true
 featured: false
 toc: false
-
-categories:
-  - Reflections
-  - Opinions
-  - bookNotes
 tags:
-  - books
-  - reflections
-
+  - Reflections
 ---
 
 

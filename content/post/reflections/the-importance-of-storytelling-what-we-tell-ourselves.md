@@ -1,18 +1,12 @@
 ---
-title: "The Importance of Storytelling & What We Tell Ourselves" # Title of the blog post.
-date: 2024-06-30T17:43:32+01:00 # Date of post creation.
-description: "Collections of insights about the value of structured storytelling" # Description used for search engine.
-featured: false # Sets if post is a featured post, making appear on the home page side bar.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
-toc: true # Controls if a table of contents should be generated for first-level links automatically.
-
-categories:
-  - Reflections
+title: "The Importance of Storytelling & What We Tell Ourselves" 
+date: 2024-06-30T17:43:32+01:00 
+description: "Collections of insights about the value of structured storytelling"
+featured: false
+draft: true
+toc: true
 tags:
-  - book-insights
-  - annotations
-  - SystemThinking
-comment: false # Disable comment if false.
+  - Reflections
 ---
 
 

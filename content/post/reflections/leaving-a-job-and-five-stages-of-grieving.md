@@ -6,7 +6,7 @@ slug: "grieving-when-leaving-a-job"
 authors:
   - "Diogo Pessoa"
 tags:
-  - 'Reflections'
+  - Reflections
 toc: true
 ---
 

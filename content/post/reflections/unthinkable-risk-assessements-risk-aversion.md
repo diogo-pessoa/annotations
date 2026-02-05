@@ -5,12 +5,8 @@ description: "Notes and reflections from Risk and notes from book The Unthinkabl
 featured: false
 draft: true
 toc: true
-categories:
-  - Reflections
-  - book-annotations
 tags:
-  - risk
-  - human-condition
+  - Reflections
 ---
 
 
