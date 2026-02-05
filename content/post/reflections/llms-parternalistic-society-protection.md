@@ -4,14 +4,8 @@ date: 2024-11-24T15:23:36Z
 draft: true
 featured: false
 toc: false
-
-categories:
-  - Technology
-  - Opinions
 tags:
-  - llms
-  - economics
-
+  - Reflections
 ---
 
 ## Abstract
