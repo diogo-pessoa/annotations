@@ -7,18 +7,13 @@
 
 [[main]]
   parent = "Output"
-  name = "Linux commands cheatsheets"
-  url = "/series/linux_cheatsheet/"
+  name = "Reflections"
+  url = "/tags/reflections/"
 
 [[main]]
-parent = "Output"
-name = "sysAdmin cheatsheets"
-url = "/tags/sysAdmin/"
-
-[[main]]
-parent = "Output"
-name = "CCSP exam prep notes"
-url = "/tags/ccsp/"
+  parent = "Output"
+  name = "Reflections"
+  url = "/tags/system-architecture/"
 
 # Stuff I read
 
