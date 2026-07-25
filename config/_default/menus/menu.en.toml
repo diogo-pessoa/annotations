@@ -1,5 +1,5 @@
 
-# My work output
+# Output = things I made
 [[main]]
   parent = "Output"
   name = "Python dumps"
@@ -12,25 +12,30 @@
 
 [[main]]
   parent = "Output"
-  name = "Reflections"
+  name = "SystemThinking"
   url = "/tags/system-architecture/"
 
-# Stuff I read
-
 [[main]]
-parent = "Input"
-name = "Books to read again"
-url = "post/books-list/"
+  parent = "Output"
+  name = "CCSP Study Notes"
+  url = "/post/ccsp/"
 
+# Input = things I read
 [[main]]
-parent = "Input"
-name = "Favorite quotes"
-url = "post/saved-quotes"
+  parent = "Input"
+  name = "Favorite Poems"
+  url = "/categories/poems/"
 
-[[main]]
-parent = "Input"
-name = "Favorites Poems"
-url = "/series/poems/"
+# Re-enable these once the content sections exist (mirror the CCSP MOC pattern):
+# [[main]]
+#   parent = "Input"
+#   name = "Books to read again"
+#   url = "/post/books-list/"
+#
+# [[main]]
+#   parent = "Input"
+#   name = "Favorite quotes"
+#   url = "/post/saved-quotes/"
 
 # social menu links
 
@@ -43,17 +48,3 @@ url = "/series/poems/"
   name = "rss"
   weight = 4
   url = "index.xml"
-
-# other supported social links
-# name = "youtube"
-# url = "https://www.youtube.com/#"
-# name = "facebook"
-# url = "https://facebook.com/#"
-# name = "instagram"
-# url = "https://instagram.com/#"
-# name = "stackoverflow"
-# url = "https://stackoverflow.com/#"
-# name = "gitlab"
-# url = "https://gitlab.com/#"
-# name = "discord"
-# url = "https://discord.gg/#"

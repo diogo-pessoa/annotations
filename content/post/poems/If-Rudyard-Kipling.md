@@ -3,7 +3,7 @@ title: "If Rudyard Kipling"
 date: 2024-10-19T19:56:43+01:00 
 draft: false 
 categories:
-  - Poems
+  - poems
 tags: []
 ---
 

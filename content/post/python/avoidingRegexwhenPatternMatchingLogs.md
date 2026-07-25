@@ -6,7 +6,7 @@ draft: false
 toc: true
 tags:
   - python
-  - sysAdmin
+  - sysadmin
 series:
   - diary-of-a-flawed-pythonista
 ---

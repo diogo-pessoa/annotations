@@ -12,7 +12,7 @@ tags:
   - bash
   - commands
   - troubleshooting
-  - sysAdmin
+  - sysadmin
   - cheatsheet
 series:
   - linux_cheatsheet

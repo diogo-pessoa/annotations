@@ -15,7 +15,7 @@ tags:
   - query
   - cheatsheet
   - troubleshooting
-  - sysAdmin
+  - sysadmin
 ---
 
 ### Sort resources by creation timestamp

@@ -13,7 +13,7 @@ categories:
 tags:
   - k8s
   - cheatsheet
-  - sysAdmin
+  - sysadmin
   - troubleshooting
 
 ---

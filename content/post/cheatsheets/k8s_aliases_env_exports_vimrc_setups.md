@@ -13,7 +13,7 @@ tags:
   - k8s
   - aliases
   - cheatsheet
-  - sysAdmin
+  - sysadmin
 ---
 
 ### Exports
