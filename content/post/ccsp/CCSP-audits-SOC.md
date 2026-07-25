@@ -11,7 +11,7 @@ codeLineNumbers: false
 figurePositionShow: true
 
 tags:
-  - GAPP
+  - gapp
   - ccsp
 
 ---

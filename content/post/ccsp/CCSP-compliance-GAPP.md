@@ -11,7 +11,7 @@ codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
 tags:
-  - GAAP
+  - gaap
   - ccsp
 
 ---

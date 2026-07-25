@@ -5,7 +5,7 @@ featured: false
 draft: true
 toc: true
 tags:
-  - SysAdmin
+  - sysadmin
   - system-architecture
 
 ---

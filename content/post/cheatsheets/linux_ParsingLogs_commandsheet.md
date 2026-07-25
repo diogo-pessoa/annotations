@@ -11,7 +11,7 @@ tags:
   - linux
   - bash
   - troubleshooting
-  - sysAdmin
+  - sysadmin
   - cheatsheet
   - commands
 series:
