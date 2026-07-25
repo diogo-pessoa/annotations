@@ -10,7 +10,7 @@ tags:
   - linux
   - bash
   - troubleshooting
-  - sysAdmin
+  - sysadmin
   - cheatsheet
 series:
   - linux_cheatsheet

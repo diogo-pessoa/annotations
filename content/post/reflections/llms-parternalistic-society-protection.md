@@ -5,7 +5,7 @@ draft: true
 featured: false
 toc: false
 tags:
-  - Reflections
+  - reflections
 ---
 
 ## Abstract

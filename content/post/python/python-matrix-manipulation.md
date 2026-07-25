@@ -11,8 +11,8 @@ codeMaxLines: 10
 codeLineNumbers: false 
 figurePositionShow: true 
 tags:
-  - Python
-  - Matrix
+  - python
+  - matrix
 series:
   - diary-of-a-flawed-pythonista
 ---
