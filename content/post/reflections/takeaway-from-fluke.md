@@ -12,11 +12,11 @@ tags:
 
 **I am reading Fluke by Brian Klaas. This is a note to myself. I want a short place to come back to so the ideas stay fresh while I read.**
 
-Klaas wrote a book about chance. The idea is plain. Small things change everything. A cloud drifted over a Japanese city and one place lived while another burned. A man stopped to iron a shirt and lived while his friend died in the tower. These are not stories about fate. They show how the world runs. Details that look like nothing sway it, all day.
+Klaas wrote a book about chance. The idea is plain. Small things change everything. A cloud drifted over a Japanese city and one place lived while another burned. A man went back to iron a shirt for a gifted tie and lived while his friend died in the tower. These are not stories about fate. They show how the world runs. Details that look like nothing sway it, all day.
 
 ## The one line
 
-Klaas keeps one line at the center. We control nothing, but we influence everything. He does not believe things happen for a reason. There is no grand plan behind your life. He finds comfort somewhere else. You are here at all. That is unlikely. And everything you do sends ripples into other lives. You cannot see where they go. They still matter. This is meant to free you, not scare you.
+Klaas keeps one line at the center. ***We control nothing, but we influence everything***. He does not believe things happen for a reason. There is no grand plan behind your life. He finds comfort somewhere else. You are here at all. That is unlikely. And everything you do sends ripples into other lives. You cannot see where they go. They still matter. This is meant to free you, not scare you.
 
 ## Two kinds of change
 
@@ -25,6 +25,8 @@ Change comes in two kinds. First is contingency. Stuff just happens. You hit the
 ## The sand pile
 
 His one image for disaster is the sand pile. Drop grains one at a time and the pile grows tall. In the end a single grain starts an avalanche. We call these events shocks, as if they fell from the sky. They do not. They come from systems we let grow fragile. A man set himself on fire in Tunisia and dictatorships fell. The same act in Norway would change nothing. The pile there is short. This cuts both ways. When a cruel system is stretched thin, one person can bring it down.
+
+> Note to self. This is Nassim Taleb's ground. The sand pile is the black swan seen from below. The rare shock looks random only because we let the pile grow tall and did not watch it. Taleb goes one step further than Klaas here. His answer is not just to survive the shock but to build the opposite of fragile. An antifragile system gains from disorder. Read Antifragile and The Black Swan next to this chapter.
 
 ## The illusion of control
 
@@ -44,13 +46,13 @@ I liked how honest he is about prediction. Ask him who wins the election and he 
 
 ## The stories
 
-The stories are the best part. Two stay with me. A honeymoon in Kyoto in 1926 made a man love the city, and years later, as secretary of war, he struck it from the target list. So Kyoto lived and Hiroshima burned. A whole city turned on one happy trip. The other is his own family. His great grandfather's first wife killed her four children in 1905 and then herself. Klaas exists because of it. His happiest days are tied to those deaths. He does not flinch from that. It is the whole book in one hard fact. The rest are anchors I want to keep near. The tie that saved a man on the morning of the towers. The white hair on a red cow that may have held off a holy war. The asteroid and the rich soil that still shows in how Georgia votes. Floorboards cut to twenty three inches to spite a king. Three lost cigars that turned a battle and a war.
+The stories are the best part. One stays with me most. His great grandfather's first wife killed her four children in 1905 and then herself. Klaas exists because of it. His happiest days are tied to those deaths. He does not flinch from that. It is the whole book in one hard fact. The rest are anchors I want to keep near. The tie that saved a man on the morning of the towers. The white hair on a red cow that may have held off a holy war. The asteroid and the rich soil that still shows in how Georgia votes. Floorboards cut to twenty three inches to spite a king. Three lost cigars that turned a battle and a war.
 
 ## What I want to keep
 
-Then come the lessons I want to keep. Experiment more. If small acts turn your path, then trying things is the smart move in a world you cannot map. Wander off the route the app gives you. Build slack into your life. A system tuned too tight snaps at the first shock. One ship stuck in a canal cost the world billions. Put your sense of self in things no one can take, a walk, your dog, the people who love you. Soften your reaction to winning and to losing. His last line stays with me. When you are winning you are not as good as you think. When you are losing you are not as bad as you think. Your worst days and your best days cause each other. They are one chain.
+Then come the lessons I want to keep. Experiment more. If small acts turn your path, then trying things is the smart move in a world you cannot map. Wander off the route the app gives you. Build slack into your life. A system tuned too tight snaps at the first shock. One ship stuck in a canal cost the world billions. Put your sense of self in things no one can take, a walk, your dog, the people who love you. Soften your reaction to winning and to losing. His last line stays with me. ***When you are winning you are not as good as you think. When you are losing you are not as bad as you think. Your worst days and your best days cause each other. They are one chain.***
 
-He does not believe in free will, but he says it does not change the point. You still choose. Behave with reason where the world holds patterns. Give up control where it does not. A little uncertainty is good for us. Full control would be a nightmare. This is where his line comes home. We control nothing, but we influence everything. That is the spine of the book. It is the thing I want to hold onto while I read.
+He does not believe in free will, but he says it does not change the point. You still choose. Behave with reason where the world holds patterns. Give up control where it does not. A little uncertainty is good for us. Full control would be a nightmare. This is where his line comes home. ***We control nothing, but we influence everything***. That is the spine of the book. It is the thing I want to hold onto while I read.
 
 The book is called Fluke. His newsletter is The Garden of Forking Paths.
 
@@ -58,3 +60,5 @@ The book is called Fluke. His newsletter is The Garden of Forking Paths.
 
 * [Fluke on Goodreads](https://www.goodreads.com/en/book/show/177058906-fluke)
 * [Interview notes: The Hidden Force That Secretly Controls Your Life, Modern Wisdom #806 with Chris Williamson](https://podcastnotes.org/modern-wisdom/the-hidden-force-that-secretly-controls-your-life-brian-klaas-modern-wisdom-podcast-with-chris-williamson-806/)
+* [The Black Swan by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/242472.The_Black_Swan)
+* [Antifragile by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/13530973-antifragile)
