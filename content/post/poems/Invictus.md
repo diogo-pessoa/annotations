@@ -1,5 +1,5 @@
 ---
-title: "Invictus by William Ernest Henley" 
+title: "Invictus by William Ernest Henley"
 date: 2024-10-19T19:58:20+01:00 
 draft: false 
 categories:

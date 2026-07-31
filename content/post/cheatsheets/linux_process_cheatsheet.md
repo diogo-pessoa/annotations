@@ -108,7 +108,7 @@ lsof -p 1234
 
 
 
-### Proces using a file
+### Process using a file
 
 ```bash
 lsof /var/log/app.log
@@ -148,7 +148,7 @@ kill -9 <PID>
 ### `kill -15` (graceful shutdown)
 
 ```bash
-kill -9 <PID>
+kill -15 <PID>
 ```
 
 ## `strace`

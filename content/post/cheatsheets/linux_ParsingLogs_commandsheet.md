@@ -145,7 +145,7 @@ sed 's/password=[^ ]*/password=REDACTED/g' app.log
 
 ## `diff`
 
-### Human readeable
+### Human readable
 ```bash
 diff -u file1.conf file2.conf
 ``` 

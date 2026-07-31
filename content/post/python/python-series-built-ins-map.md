@@ -18,7 +18,7 @@ and
 returning a map object. `(Generally transformed into a list)`
 
 I see this approach often when reading code with a functional programming approach. I've been
-meaning to try it out and write about to weight the pros and cons. Then, have a quick
+meaning to try it out and write about to weigh the pros and cons. Then, have a quick
 summary as reference when/if using the `map()`.
 
 ### Conventions & Code
@@ -56,7 +56,7 @@ It's possible to write succinct code.
 
 ## practical example
 
-A crossed an actual case where this proved useful (simplified the code readability).
+I came across an actual case where this proved useful (simplified the code readability).
 
 I'm skeptical of contracting the code too much, fearing it makes harder to read and
 understand the logic. But in this case it streamlined the code. By extracting the transform into a
@@ -77,7 +77,7 @@ the `#`.
 
     def transform_keys(self, string_to_transform: dict) -> list[tuple]:
         """
-        Given a dictionary, return a a list of tuples with the chars after "#".
+        Given a dictionary, return a list of tuples with the chars after "#".
         :param string_to_transform: dict
         :return: list[tuple]
         """
@@ -99,7 +99,7 @@ fan of a good debugging session. The traditional looping was the most beneficial
 a massive increase in execution time and the debugger is much more human-readable. Not to mention,
 for a programmer coming from a different language, it's way more obvious what's going on in the
 loop.  
-`(One could argue about space completixy, since I'm creating an extra variable)`
+`(One could argue about space complexity, since I'm creating an extra variable)`
 
 **Warning:** This wasn't meant to be the most efficient code `(not a Big O analysis)`, just playing
 with the `map()` function.
@@ -165,7 +165,7 @@ Wait for it… It depends. :unamused:
 I'd definitely use the `map()` function in some use cases where the transformation is simple, for
 example, transforming a value `map(lambda x: x ** 2, numbers)` through an iterable. But, it isn't
 immediately obvious when
-writing the method how the whole thing will behave `(or maybe, I'm just unexperienced)`. I still
+writing the method how the whole thing will behave `(or maybe, I'm just inexperienced)`. I still
 rely on
 too much on the debugger `(and testing re-runs)` to understand the logic.
 

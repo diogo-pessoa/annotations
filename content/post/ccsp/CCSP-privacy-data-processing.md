@@ -1,5 +1,5 @@
 ---
-title: "CCSP Privacy Data Processing" 
+title: "CCSP Privacy Data Processing"
 date: 2024-09-07T17:13:25+01:00 
 draft: false 
 toc: true

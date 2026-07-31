@@ -11,7 +11,7 @@ tags:
 
 ## Data Ownership
 
-### Data Owner responsibilties
+### Data Owner responsibilities
 
 `Data owners`, the individuals responsible for classifying, protecting, and overseeing the use of
 data
@@ -21,7 +21,7 @@ their assigned tasks. And, as in many circumstances in both the cloud and legacy
 logging and audit trails are important when data is being manipulated in any fashion. (
 p.67) [1](#references)
 
-### Cloud Providers responsibilties
+### Cloud Providers responsibilities
 
 `Cloud providers` need to ensure that they provide secure environments for data use as well. That
 means strong protections in the implementation of virtualization or shared services. Providers must

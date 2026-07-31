@@ -20,12 +20,12 @@ tags:
 - **_Animal Farm_** - George Orwell
 - **_1984_** - George Orwell
 - **_Brave New World_** - Aldous Huxley
-- **Project Hail Mary** - Andy weir
+- **Project Hail Mary** - Andy Weir
 - **_Blue Mars_** - Kim Stanley Robinson
 - **_Red Mars_** - Kim Stanley Robinson
 - **_Hitchhiker's Guide to the Galaxy_** - Douglas Adams
 - **_Shantaram_** - Gregory David Roberts
-- **_Siddhartha_** - Herman Hesse
+- **_Siddhartha_** - Hermann Hesse
 
 ###  Spanish
 
@@ -49,7 +49,7 @@ tags:
 - **_Fooled by Randomness_** - Nassim Nicholas Taleb
 - **_The Black Swan_** - Nassim Nicholas Taleb
 - **_Fluke_** - Brian Klaas
-- **_Everbody Lies_** - Seth Stephens-Davidowitz
+- **_Everybody Lies_** - Seth Stephens-Davidowitz
 - **_The Art of Statistics_** - David Spiegelhalter
 - **_Nudge: Improving Decisions About Money, Health, and the Environment_** – Richard H. Thaler, Cass R. Sunstein
 
@@ -66,7 +66,7 @@ tags:
 
 ### Philosophy
 
-- **_The Demon-Haunted World: Science as a Candle in the Dark_** – Carl Sagan, ann Druyan
+- **_The Demon-Haunted World: Science as a Candle in the Dark_** – Carl Sagan, Ann Druyan
 - **_Zen and the Art of Motorcycle Maintenance_** - Robert M. Pirsig
 - **_Anti Fragile_** - Nassim Nicholas Taleb
 - **_Skin in the Game_** - Nassim Nicholas Taleb
@@ -142,30 +142,30 @@ tags:
 - **_Muggsy_** - Tyrone Bogues
 - **_Born Standing Up_** - Steve Martin
 - **_Born a Crime_** - Trevor Noah
-- **_Memories from my father_** - Barack Obama
+- **_Dreams from My Father_** - Barack Obama
 - **_Some time with Feynman_** – Leonard Mlodinow
 - **_Surely You're Joking, Mr. Feynman!_** – Richard P. Feynman
 - **_What Do You Care What Other People Think?_** – Richard P. Feynman
 - **_Poor Charlie’s Almanack_** – Charles T. Munger
 
-#### [Ajham Brahm](https://www.youtube.com/watch?v=bekYLQ5buRQ))
+#### [Ajahn Brahm](https://www.youtube.com/watch?v=bekYLQ5buRQ)
 
-- **_Mindfulness, Bliss and Beyond_** - Ajham Brahm
-- **_Who ordered this truckload of dung_** - Ajham Brahm
+- **_Mindfulness, Bliss and Beyond_** - Ajahn Brahm
+- **_Who ordered this truckload of dung_** - Ajahn Brahm
 
 ### Time Management
 
 - **_Atomic Habits_** - James Clear
-- **_Digital Minimalism_** - Carl Newport
-- **_So Good they can't ignore you_** - Carl Newport
-- **_Slow Productivity_** - Carl Newport
-- **Deep work** - Carl Newport
-- **_The Paradox of Choice_** - Barry Schartz [TED Talk](https://www.youtube.com/watch?v=VO6XEQIsCoM)
+- **_Digital Minimalism_** - Cal Newport
+- **_So Good they can't ignore you_** - Cal Newport
+- **_Slow Productivity_** - Cal Newport
+- **Deep work** - Cal Newport
+- **_The Paradox of Choice_** - Barry Schwartz [TED Talk](https://www.youtube.com/watch?v=VO6XEQIsCoM)
 - **_Anything You Want: 40 Lessons for a New Kind of Entrepreneur_** - Derek Sivers
 
 ### Wellbeing, health and longevity
 
-- **_Outlive_** - Peter Attia, Bill Glifford
+- **_Outlive_** - Peter Attia, Bill Gifford
 - **_Age Proof_** - Prof. Rose Anne Kenny
 - **_Why we sleep_** - Matthew Walker
 - **_Caffeine_** - Michael Pollan
@@ -173,7 +173,7 @@ tags:
 
 #### Money & Finance (self-help)
 
-- **_I Will Teach You to Be Rich_** - Ramit Seth
+- **_I Will Teach You to Be Rich_** - Ramit Sethi
 - **_Rich Dad Poor Dad_** - Robert T. Kiyosaki
 - **_Trading in the Zone_** - Mark Douglas
 

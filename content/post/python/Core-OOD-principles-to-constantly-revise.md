@@ -1,9 +1,11 @@
 ---
-title: "Core ODD principles to constantly revise"
+title: "Core OOD principles to constantly revise"
 date: 2026-01-16
 featured: false
 draft: false
 toc: true
+aliases:
+  - /post/python/core-odd-principles-to-constantly-revise/
 tags:
   - python
 series:
@@ -12,10 +14,10 @@ series:
 
 ## Summary
 
-Grouping together core concepts of Object-Oriented Design for programming. This also server the purpose of a refresher
+Grouping together core concepts of Object-Oriented Design for programming. This also serves the purpose of a refresher
 ahead of job interviews.
 
-## Good ODD
+## Good OOD
 
 A good design ensures code longevity. Consider the following:
 
@@ -56,7 +58,7 @@ chunks.
 
 - [(Kumar, 2024)](https://medium.com/code-and-concepts/part-5-interface-segregation-principle-isp-337c7862c2dc)
 
-### Segway to definition of an Interface
+### Segue to definition of an Interface
 
 Interface
 An interface defines a contract that specifies what methods a class must implement, without providing the method

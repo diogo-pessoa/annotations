@@ -121,6 +121,6 @@ def redact_url_query(url: str, redaction_counts: dict) -> str:
 ```
 
 
-## An alternative is to user Structured matching when you know the schema, Redact by key
+## An alternative is to use Structured matching when you know the schema, Redact by key
 Best-case: the event already has typed fields (e.g., `client_ip`, `user_email`). No Need to pattern match
 redact by key, rough hands-on snippet on [my GitHub](https://github.com/diogo-pessoa/coding-exercises/blob/main/LogParsingSnippets/LogRedactingByKey/logRedactorMain.py).

@@ -1,5 +1,5 @@
 ---
-title: "CCSP-Glossary -Notes"
+title: "CCSP-Glossary - Notes"
 date: 2024-09-02T16:32:31+01:00
 description: "Acronyms, terms with brief descriptions"
 featured: false
@@ -49,7 +49,7 @@ tags:
 
 `Revise`
 
-* **“unvalidated redirects and forwards.”** - Train users to recognize invalidated links.
+* **“unvalidated redirects and forwards.”** - Train users to recognize unvalidated links.
 * Oddly enough, this may be a good topic to explain during user training; when an attacker is trying
   to conduct an attack by exploiting unvalidated redirects and forwards, it is often in conjunction
   with a social engineering/phishing aspect. Users trained to recognize social engineering/phishing
@@ -98,7 +98,7 @@ centralized server.
 
 
 * **ONF** - Organization normative framework
-* **UPS** Uninterruptable Power supply
+* **UPS** Uninterruptible Power supply
 
 * **SAN** Storage Area Network
 * **CASB** Cloud access Security Broker

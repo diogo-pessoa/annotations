@@ -29,7 +29,7 @@ Even though Debugging is a topic of its own. I rely so much on PyCharm's Debugge
 both together.
 
 * [PyCharm](https://www.jetbrains.com/pycharm/) for the win.
-    * Haven't used much of else, probably because I didn't have too. The Debugger in PyCharm is
+    * Haven't used much of else, probably because I didn't have to. The Debugger in PyCharm is
       fantastic.
 
 ### Testing
@@ -46,7 +46,7 @@ python3 -m unittest discover -s tests/ -p '*_test.py'
 
 ```
 
-* worth mentioning `@unnitest` decorators are great. Sometimes, when not done with a test, just
+* worth mentioning `@unittest` decorators are great. Sometimes, when not done with a test, just
   `.skip()` for a while.
 
 This is not an excuse to leave tests unfinished. It's a means to an end. If you need to use it too
@@ -75,7 +75,7 @@ def test_create_local_dir_creates_directory_when_not_exists(self,
 
 - I usually use testing to validate my approach. Sometimes, extra tests for edge cases.
 - I hardly go too deep down the TDD rabbit hole, and often ignore the coverage %.
-  Honestly, If I'm spending to much time testing, it feels to me, there's too much logic in a single
+  Honestly, If I'm spending too much time testing, it feels to me, there's too much logic in a single
   snippet.
   When I did run the coverage, I've used the [coverage](https://pypi.org/project/coverage/)
 
@@ -204,7 +204,7 @@ safety check -r requirements.txt
 
 #### Safety Conclusion
 
-It's seem useful and the project pretty active, however a lot of features are behind a sign-up or
+It seems useful and the project pretty active, however a lot of features are behind a sign-up or
 paid solution.
 
 * `Check` is limited to last 30 days.
@@ -330,7 +330,7 @@ I'm big in trying new tools, in scrutinizing features that will make my life eas
 I look for how the tool will improve my current setup. Having said that, once I've passed the point,
 I'll happily miss some fancy new feature, the opposite of FOMO.
 
-In conclusion, some tools listed are here, simply because the work for me, others made the cut as a
+In conclusion, some tools listed are here, simply because they work for me, others made the cut as a
 recent replacement.
 
 In with the new, Static code analysis and dependency scanning is quite new to me. I'm still testing

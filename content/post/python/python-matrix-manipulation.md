@@ -22,7 +22,7 @@ work on it.
 
 ## Summary
 
-Matrix manipulation is something I need to refresh everytime I have to use it. It's not
+Matrix manipulation is something I need to refresh every time I have to use it. It's not
 something one uses every day.
 
 **Matrix:** 2D array (matrix) with given dimensions (rows and columns).
@@ -90,7 +90,7 @@ the main diagonal.
 
 ### Exercise 1: Create a 2D Array (Matrix)
 
-Write a function to create a and fill it with a given value.
+Write a function to create a matrix and fill it with a given value.
 
 ```python
 def create_matrix(rows, cols, value):

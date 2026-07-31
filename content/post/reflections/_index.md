@@ -18,7 +18,7 @@ tags:
 ## On self & the stories we tell
 
 - [Five stages of grieving when leaving a long-term job](grieving-when-leaving-a-job/)
-- Revisiting *The Status Game* by Will Storr _(draft)_
+- [Revisiting *The Status Game* by Will Storr](reflections_on_status_game/)
 - The importance of storytelling & what we tell ourselves _(draft)_
 
 ## On society & technology

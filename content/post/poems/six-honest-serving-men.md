@@ -1,5 +1,5 @@
 ---
-title: "Six Honest Serving Man" 
+title: "Six Honest Serving Men"
 date: 2024-10-19T20:01:02+01:00 
 draft: false 
 featured: false
@@ -7,6 +7,8 @@ toc: false
 categories:
   - poems
 tags: []
+aliases:
+  - /post/poems/six-honest-serving-man/
 ---
 
 

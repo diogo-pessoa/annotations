@@ -25,7 +25,7 @@ tags:
 ---
 
 >Not being able to govern events, I govern myself — Michel de Montaigne 
->#Seen on Risky Savvy — Gerd Gigerenzer
+>#Seen on Risk Savvy — Gerd Gigerenzer
 
 ---
 
@@ -86,7 +86,7 @@ have nothing to say and keep on saying it.”_ ― Robert Frost
 
 > _“Silver Rule (negative golden rule): Do not do to others what you would not like them to do to
 you. Note the difference from the Golden Rule, as the silver one prevents busybodies from attempting
-to run your life.”_ – Nicholas Nassim Taleb
+to run your life.”_ – Nassim Nicholas Taleb
 
 ---
 
@@ -116,7 +116,7 @@ _“If you want to find out what a man is to the bottom, give him power. Any man
 adversity — only a great man can stand prosperity. It is the glory of Abraham Lincoln that he never
 abused power only on the side of mercy.”_
 
-* This one I found when fact checking. I wasn't sure if that was Lincon's words, turns out they
+* This one I found when fact checking. I wasn't sure if that was Lincoln's words, turns out they
   aren't
 
 ---
@@ -152,7 +152,7 @@ brought together."_ – Vincent van Gogh
 ---
 
 > _"I have already settled it for myself, so flattery and criticism go down the same drain, and I am
-quite free."_ – Dale Carnagie
+quite free."_ – Dale Carnegie
 
 ---
 

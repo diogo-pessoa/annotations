@@ -35,7 +35,7 @@ Start with the [Exam Prep self guide](ccsp-exam-prep-plan/) for the study plan, 
 - [Intrusion Detection](ccsp-intrusiondetection/)
 - [NIDS](ccsp-nids/)
 - [Penetration Testing](ccsp-pen-testing/)
-- [Risk Assessment](ccsp-risk-assessement/)
+- [Risk Assessment](ccsp-risk-assessment/)
 - Threat Modeling _(draft)_
 
 ## Domain 4 — Cloud Application Security

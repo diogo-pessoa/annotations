@@ -144,7 +144,7 @@ the encrypted data unreadable and effectively destroyed.
 
 #### Other considerations
 
-In regard to `data sanitization`, Consider the service Model when anlying each approach.
+In regard to `data sanitization`, Consider the service Model when analyzing each approach.
 
 * **SaaS** requires special consideration for data sanitization due to data interconnectivity. Since
   SaaS providers manage the entire infrastructure and application, data destruction relies on

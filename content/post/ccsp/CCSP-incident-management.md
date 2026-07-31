@@ -1,5 +1,5 @@
 ---
-title: "CCSP Incident Management - Notes" 
+title: "CCSP Incident Management - Notes"
 date: 2024-11-08T15:42:08Z  
 draft: false
 toc: false 
@@ -25,7 +25,7 @@ Evaluating infrastructure by proactive scanning and network monitoring, vulnerab
 assessments
 Subscribing to third-party threat intelligence services
 Detection and Analysis: This is really when managing a real risk begins. Preparation is getting ready. Detection is when
-it has happened, and we discover it in someway. The analysis is often stated as triage. It is necessary to determine
+it has happened, and we discover it in some way. The analysis is often stated as triage. It is necessary to determine
 what is happening and what will be handled by the team first.
 
 Alerts (endpoint protection, network security monitoring, host monitoring, account creation, privilege escalation, other
