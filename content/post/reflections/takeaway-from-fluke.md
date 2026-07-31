@@ -1,7 +1,7 @@
 ---
 title: "Takeaway From Fluke"
 date: 2026-07-29T09:48:00+02:00
-description: "Notes to myself on Brian Klaas's Fluke. Chance, chaos, and why small things change everything."
+description: "Notes on Brian Klaas's Fluke. Chance, chaos, and why small things change everything."
 featured: false
 draft: false
 toc: true
@@ -10,7 +10,7 @@ tags:
   - books
 ---
 
-**I am reading Fluke by Brian Klaas. This is a note to myself. I want a short place to come back to so the ideas stay fresh while I read.**
+**These are notes on Fluke by Brian Klaas. A short place to come back to, so the ideas stay fresh while reading it.**
 
 Klaas wrote a book about chance. The idea is plain. Small things change everything. A cloud drifted over a Japanese city and one place lived while another burned. A man went back to iron a shirt for a gifted tie and lived while his friend died in the tower. These are not stories about fate. They show how the world runs. Details that look like nothing sway it, all day.
 
@@ -30,7 +30,7 @@ His one image for disaster is the sand pile. Drop grains one at a time and the p
 
 ## The illusion of control
 
-What stayed with me is how our calm life fools us. Old humans lived unstable days inside a stable world. A saber toothed tiger might eat you, but the way of things held for a hundred thousand years. We flipped it. Our coffee is the same everywhere while rivers dry up and democracies fall. This is the illusion of control. We can guess tomorrow's weather in Texas, so we feel we run the machine. We do not.
+The part that lingers is how our calm life fools us. Old humans lived unstable days inside a stable world. A saber toothed tiger might eat you, but the way of things held for a hundred thousand years. We flipped it. Our coffee is the same everywhere while rivers dry up and democracies fall. This is the illusion of control. We can guess tomorrow's weather in Texas, so we feel we run the machine. We do not.
 
 ## Why we miss it
 
@@ -42,17 +42,17 @@ Single people still matter. Klaas studied dictators. One banned smoking because 
 
 ## Honesty about prediction
 
-I liked how honest he is about prediction. Ask him who wins the election and he says he does not know. That is the only honest answer. A poll asks who you like today, not who wins in the fall. The ground shifts while you measure it. He calls this non stationarity. In February of 2020 no poll knew the pandemic was coming. He warns about percentages too. Say there is an eighty seven percent chance and then the other thing happens, and you just call it the thirteen percent. You can never be proven wrong. For a one time event a percentage can hide more than it shows.
+He is honest about prediction. That is rare. Ask him who wins the election and he says he does not know. That is the only honest answer. A poll asks who you like today, not who wins in the fall. The ground shifts while you measure it. He calls this non stationarity. In February of 2020 no poll knew the pandemic was coming. He warns about percentages too. Say there is an eighty seven percent chance and then the other thing happens, and you just call it the thirteen percent. You can never be proven wrong. For a one time event a percentage can hide more than it shows.
 
 ## The stories
 
-The stories are the best part. One stays with me most. His great grandfather's first wife killed her four children in 1905 and then herself. Klaas exists because of it. His happiest days are tied to those deaths. He does not flinch from that. It is the whole book in one hard fact. The rest are anchors I want to keep near. The tie that saved a man on the morning of the towers. The white hair on a red cow that may have held off a holy war. The asteroid and the rich soil that still shows in how Georgia votes. Floorboards cut to twenty three inches to spite a king. Three lost cigars that turned a battle and a war.
+The stories are the best part. One stands out the most. His great grandfather's first wife killed her four children in 1905 and then herself. Klaas exists because of it. His happiest days are tied to those deaths. He does not flinch from that. It is the whole book in one hard fact. The rest are anchors worth keeping near. The tie that saved a man on the morning of the towers. The white hair on a red cow that may have held off a holy war. The asteroid and the rich soil that still shows in how Georgia votes. Floorboards cut to twenty three inches to spite a king. Three lost cigars that turned a battle and a war.
 
-## What I want to keep
+## What to keep
 
-Then come the lessons I want to keep. Experiment more. If small acts turn your path, then trying things is the smart move in a world you cannot map. Wander off the route the app gives you. Build slack into your life. A system tuned too tight snaps at the first shock. One ship stuck in a canal cost the world billions. Put your sense of self in things no one can take, a walk, your dog, the people who love you. Soften your reaction to winning and to losing. His last line stays with me. ***When you are winning you are not as good as you think. When you are losing you are not as bad as you think. Your worst days and your best days cause each other. They are one chain.***
+Then come the lessons worth keeping. Experiment more. If small acts turn your path, then trying things is the smart move in a world you cannot map. Wander off the route the app gives you. Build slack into your life. A system tuned too tight snaps at the first shock. One ship stuck in a canal cost the world billions. Put your sense of self in things no one can take, a walk, your dog, the people who love you. Soften your reaction to winning and to losing. His last line lands hardest. ***When you are winning you are not as good as you think. When you are losing you are not as bad as you think. Your worst days and your best days cause each other. They are one chain.***
 
-He does not believe in free will, but he says it does not change the point. You still choose. Behave with reason where the world holds patterns. Give up control where it does not. A little uncertainty is good for us. Full control would be a nightmare. This is where his line comes home. ***We control nothing, but we influence everything***. That is the spine of the book. It is the thing I want to hold onto while I read.
+He does not believe in free will, but he says it does not change the point. You still choose. Behave with reason where the world holds patterns. Give up control where it does not. A little uncertainty is good for us. Full control would be a nightmare. This is where his line comes home. ***We control nothing, but we influence everything***. That is the spine of the book. It is the thing to hold onto while reading.
 
 The book is called Fluke. His newsletter is The Garden of Forking Paths.
 
