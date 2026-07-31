@@ -8,6 +8,12 @@ tags:
 ---
 
 
+> _"When you are winning you are not as good as you think. When you are losing you are not as bad as
+> you think. Your worst days and your best days cause each other. They are one chain."_
+> — Brian Klaas # From: [Fluke](https://www.goodreads.com/book/show/177058906-fluke)
+
+---
+
 >“Things turn out best for the people who make the best of the way things turn out.”
 >— John Wooden.
 

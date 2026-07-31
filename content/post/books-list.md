@@ -48,6 +48,7 @@ tags:
 - **_The Signal and the Noise_** - Nate Silver
 - **_Fooled by Randomness_** - Nassim Nicholas Taleb
 - **_The Black Swan_** - Nassim Nicholas Taleb
+- **_Fluke_** - Brian Klaas
 - **_Everbody Lies_** - Seth Stephens-Davidowitz
 - **_The Art of Statistics_** - David Spiegelhalter
 - **_Nudge: Improving Decisions About Money, Health, and the Environment_** – Richard H. Thaler, Cass R. Sunstein
@@ -144,6 +145,7 @@ tags:
 - **_Memories from my father_** - Barack Obama
 - **_Some time with Feynman_** – Leonard Mlodinow
 - **_Surely You're Joking, Mr. Feynman!_** – Richard P. Feynman
+- **_What Do You Care What Other People Think?_** – Richard P. Feynman
 - **_Poor Charlie’s Almanack_** – Charles T. Munger
 
 #### [Ajham Brahm](https://www.youtube.com/watch?v=bekYLQ5buRQ))
@@ -179,6 +181,7 @@ tags:
 
 - **_Think Like Amazon_** - John Rossman
 - **_The Lean Startup_** - Eric Ries
+- **_Alchemy_** - Rory Sutherland
 - **_Trillion Dollar Coach The Leadership Handbook of Silicon Valley's Bill Campbell_** - Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 
 ### Leadership and Management

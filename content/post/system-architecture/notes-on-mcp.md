@@ -2,7 +2,7 @@
 title: "A Socket Between a Model and a Capability: Notes on MCP"
 date: 2026-07-31
 featured: false
-draft: true
+draft: false
 toc: true
 tags:
   - system-architecture
@@ -58,7 +58,11 @@ Something else opens the connection and drives the conversation. First `initiali
   "result": { "content": [ { "type": "text", "text": "22C, clear" } ] } }
 ```
 
+<<<<<<< HEAD
 That is the whole protocol theatre. A named method. Some arguments. A matching `id` on the way back. Everything the model can do reduces to messages of that shape.
+=======
+That is the whole protocol theater. A named method. Some arguments. A matching `id` on the way back. Everything the model can do reduces to messages of that shape.
+>>>>>>> 30b23f3 (Add Fluke reflection, MCP + systems-thinking notes; update books list and saved quotes)
 
 This is why a server cannot be demoed by running it alone. There is nothing to watch. It needs a caller on the other end of the wire, a real client speaking exactly that JSON.
 
