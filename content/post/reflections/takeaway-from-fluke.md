@@ -62,3 +62,7 @@ The book is called Fluke. His newsletter is The Garden of Forking Paths.
 * [Interview notes: The Hidden Force That Secretly Controls Your Life, Modern Wisdom #806 with Chris Williamson](https://podcastnotes.org/modern-wisdom/the-hidden-force-that-secretly-controls-your-life-brian-klaas-modern-wisdom-podcast-with-chris-williamson-806/)
 * [The Black Swan by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/242472.The_Black_Swan)
 * [Antifragile by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/13530973-antifragile)
+
+## Related reading
+
+* [Risk: how badly do we assess and react to it?](/post/reflections/unthinkable-risk-assessments-risk-aversion/) — Ripley's *The Unthinkable* read alongside Taleb; the same randomness-and-miscalibration theme from the disaster-response angle.
