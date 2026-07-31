@@ -2,7 +2,7 @@
 title: "My Creed"
 date: 2026-07-31
 draft: false
-url: "/my-creed/"
+url: "/notes/my-creed/"
 _build:
   list: never
   render: always
