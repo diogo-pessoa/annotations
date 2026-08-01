@@ -10,7 +10,6 @@ codeMaxLines: 10
 codeLineNumbers: false 
 figurePositionShow: true 
 tags:
-  - nist
   - ccsp
 
 ---

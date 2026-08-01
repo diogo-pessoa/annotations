@@ -5,7 +5,6 @@ draft: false
 toc: true
 tags:
   - ccsp
-  - exam-guide
 ---
 
 ### Exam Prep Plan

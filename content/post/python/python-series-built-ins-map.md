@@ -6,7 +6,6 @@ toc: true
 draft: false
 tags:
   - python
-  - in-hindsight
 series:
   - diary-of-a-flawed-pythonista
 ---

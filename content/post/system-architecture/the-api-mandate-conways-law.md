@@ -7,12 +7,8 @@ draft: false
 toc: true
 tags:
   - system-architecture
-  - apis
-  - conways-law
   - systems-thinking
-  - mcp
-  - agents
-  - llm
+  - ai
 ---
 
 ## A memo nobody can produce

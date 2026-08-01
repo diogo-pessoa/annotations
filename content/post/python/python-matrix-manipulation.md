@@ -12,7 +12,6 @@ codeLineNumbers: false
 figurePositionShow: true 
 tags:
   - python
-  - matrix
 series:
   - diary-of-a-flawed-pythonista
 ---

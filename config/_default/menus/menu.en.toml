@@ -2,40 +2,52 @@
 # Output = things I made
 [[main]]
   parent = "Output"
-  name = "Python dumps"
-  url = "/series/diary-of-a-flawed-pythonista/"
-
-[[main]]
-  parent = "Output"
   name = "Reflections"
-  url = "/tags/reflections/"
+  url = "/post/reflections/"
+  weight = 1
 
 [[main]]
   parent = "Output"
-  name = "SystemThinking"
-  url = "/tags/system-architecture/"
+  name = "Systems & Architecture"
+  url = "/post/system-architecture/"
+  weight = 2
+
+[[main]]
+  parent = "Output"
+  name = "Python"
+  url = "/post/python/"
+  weight = 3
 
 [[main]]
   parent = "Output"
   name = "CCSP Study Notes"
   url = "/post/ccsp/"
+  weight = 4
+
+[[main]]
+  parent = "Output"
+  name = "Cheatsheets"
+  url = "/post/cheatsheets/"
+  weight = 5
 
 # Input = things I read
 [[main]]
   parent = "Input"
-  name = "Favorite Poems"
-  url = "/categories/poems/"
+  name = "Books to read again"
+  url = "/post/books-list/"
+  weight = 1
 
-# Re-enable these once the content sections exist (mirror the CCSP MOC pattern):
-# [[main]]
-#   parent = "Input"
-#   name = "Books to read again"
-#   url = "/post/books-list/"
-#
-# [[main]]
-#   parent = "Input"
-#   name = "Favorite quotes"
-#   url = "/post/saved-quotes/"
+[[main]]
+  parent = "Input"
+  name = "Favorite Quotes"
+  url = "/post/saved-quotes/"
+  weight = 2
+
+[[main]]
+  parent = "Input"
+  name = "Poems"
+  url = "/post/poems/"
+  weight = 3
 
 # social menu links
 

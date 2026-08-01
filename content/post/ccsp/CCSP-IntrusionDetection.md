@@ -5,7 +5,6 @@ draft: false
 toc: true
 tags:
   - ccsp
-  - ids
 ---
 
 **HIDS (Host-based Intrusion Detection System)** and **Honeypot** are both cybersecurity tools used to detect, monitor,

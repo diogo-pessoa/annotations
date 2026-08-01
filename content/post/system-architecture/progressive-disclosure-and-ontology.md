@@ -6,8 +6,6 @@ draft: false
 toc: true
 tags:
   - system-architecture
-  - information-architecture
-  - knowledge-management
   - reflections
 ---
 

@@ -8,7 +8,6 @@ categories:
   - troubleshooting
 tags:
   - linux
-  - bash
   - troubleshooting
   - sysadmin
   - cheatsheet

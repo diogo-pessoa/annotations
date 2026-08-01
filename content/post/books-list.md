@@ -6,7 +6,6 @@ draft: false
 toc: true
 tags:
   - books
-  - personal-lists
 
 ---
 

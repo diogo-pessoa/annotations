@@ -5,7 +5,6 @@ draft: true
 toc: true
 tags:
   - ccsp
-  - threat-modeling
 ---
 
 `<WIP>`

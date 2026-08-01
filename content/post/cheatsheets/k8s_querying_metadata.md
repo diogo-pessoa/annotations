@@ -11,8 +11,6 @@ categories:
   - troubleshooting
 tags:
   - k8s
-  - metadata
-  - query
   - cheatsheet
   - troubleshooting
   - sysadmin

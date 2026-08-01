@@ -5,8 +5,6 @@ draft: false
 toc: true
 tags:
   - ccsp
-  - data-masking
-  - data-management
 ---
 
 **Data Masking** is a data security technique that involves altering or obfuscating specific data

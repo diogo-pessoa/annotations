@@ -7,8 +7,6 @@ draft: false
 toc: true
 tags:
   - python
-  - in-hindsight
-  - personal-lists
 series:
   - diary-of-a-flawed-pythonista
 ---

@@ -6,10 +6,7 @@ draft: false
 toc: true
 tags:
   - system-architecture
-  - mcp
-  - agents
-  - protocol
-  - llm
+  - ai
 ---
 
 ## Where this started

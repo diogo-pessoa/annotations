@@ -9,8 +9,6 @@ codeMaxLines: 10
 codeLineNumbers: false
 figurePositionShow: true
 tags:
-  - pci_dss
-  - compliance
   - ccsp
 
 ---

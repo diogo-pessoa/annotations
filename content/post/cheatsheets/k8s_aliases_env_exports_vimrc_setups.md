@@ -11,7 +11,7 @@ categories:
   - troubleshooting
 tags:
   - k8s
-  - aliases
+  - linux
   - cheatsheet
   - sysadmin
 ---

@@ -5,7 +5,6 @@ draft: true
 toc: true
 tags:
   - python
-  - error-handling
 series:
   - diary-of-a-flawed-pythonista
 ---

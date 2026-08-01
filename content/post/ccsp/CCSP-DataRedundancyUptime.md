@@ -7,7 +7,6 @@ draft: false
 toc: true
 tags:
   - ccsp
-  - data
 ---
 
 ## Summary

@@ -6,8 +6,7 @@ featured: false
 draft: false 
 toc: true
 tags:
-   - ccsp
-   - pen-testing
+  - ccsp
 
 ---
 

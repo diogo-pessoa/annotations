@@ -9,8 +9,7 @@ toc: true
 math: true
 categories:
   - finance
-tags:
-  - mortgage
+tags: []
 ---
 
 ## Summary

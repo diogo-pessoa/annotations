@@ -7,9 +7,7 @@ toc: true
 tags:
   - reflections
   - ai
-  - markets
-  - systemic-risk
-  - history
+  - risk
 ---
 
 ## The shape of the boom

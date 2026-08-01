@@ -9,8 +9,6 @@ categories:
   - troubleshooting
 tags:
   - linux
-  - bash
-  - commands
   - troubleshooting
   - sysadmin
   - cheatsheet

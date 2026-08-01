@@ -3,8 +3,7 @@ title: "Great Quotes"
 date: 2024-06-29
 featured: true
 draft: false
-tags:
-  - quotes
+tags: []
 ---
 
 
