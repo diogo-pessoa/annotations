@@ -6,6 +6,7 @@ copyright = "Diogo P."
 pagination.pagerSize = 10
 theme = "hugo-clarity"
 disqusShortname = ""
+enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 #[languages]
