@@ -55,7 +55,12 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://diogo-pessoa.github.io/"
+  url = "https://github.com/diogo-pessoa"
+[[social]]
+  name = "linkedin"
+  type = "social"
+  weight = 2
+  url = "https://www.linkedin.com/in/diogopessoa/"
 [[social]]
   name = "rss"
   weight = 4
