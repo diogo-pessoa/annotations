@@ -62,6 +62,11 @@
   weight = 2
   url = "https://www.linkedin.com/in/diogopessoa/"
 [[social]]
+  name = "mail"
+  type = "social"
+  weight = 3
+  url = "mailto:dpess@outlook.ie"
+[[social]]
   name = "rss"
   weight = 4
   url = "index.xml"
