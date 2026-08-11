@@ -23,4 +23,4 @@ tags:
 
 ## On society & technology
 
-- LLMs and censorship — a paternalistic approach to societal protection _(draft)_
+- [LLMs and the Quiet Gatekeepers](llms-paternalistic-society-protection/) — a paternalistic approach to societal protection
