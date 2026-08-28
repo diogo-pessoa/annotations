@@ -45,5 +45,7 @@ What I'm left with is smaller and calmer than the system I had been drifting tow
 
 ## References
 
+{{< references >}}
 1. Lippolis, A.S., Saeedizade, M.J., Keskisärkkä, R., Zuppiroli, S., Ceriani, M., Gangemi, A., Blomqvist, E. and Nuzzolese, A.G. (2025). *Ontology Generation using Large Language Models.* arXiv:2503.05388 [cs.AI]. Available at: https://arxiv.org/abs/2503.05388 [Accessed 25 Jul. 2026].
 2. Cochran, T.O. (2026). *Progressive Disclosure for LLM-Maintained Wiki Knowledge Bases: a Preregistered Ablation.* arXiv:2607.04576 [cs.CL]. Available at: https://arxiv.org/abs/2607.04576 [Accessed 25 Jul. 2026].
+{{< /references >}}

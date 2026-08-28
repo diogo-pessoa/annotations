@@ -48,9 +48,11 @@ Go looking for the walls. Comfort inside a boundary is not the same as knowing w
 
 ## References
 
+{{< references >}}
 * [Kruger, J., & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*.](https://doi.org/10.1037/0022-3514.77.6.1121)
 * [*Range: Why Generalists Triumph in a Specialized World* by David Epstein, on Goodreads](https://www.goodreads.com/book/show/41795733-range)
 * [Gignac, G. E., & Zajenkowski, M. (2020). "The Dunning-Kruger effect is (mostly) a statistical artefact." *Intelligence*.](https://doi.org/10.1016/j.intell.2020.101449)
+{{< /references >}}
 
 ## Related reading
 

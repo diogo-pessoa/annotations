@@ -52,6 +52,7 @@ Snyder's first lesson was *do not obey in advance*. The quieter version, for the
 
 ## References
 
+{{< references >}}
 - Timothy Snyder, *On Tyranny: Twenty Lessons from the Twentieth Century* (2017). [Goodreads](https://www.goodreads.com/book/show/33917107-on-tyranny)
 - Étienne de La Boétie, *Discourse on Voluntary Servitude* (1576)
 - Steven Wineman, *Power-Under: Trauma and Social Change* (2003)
@@ -60,3 +61,4 @@ Snyder's first lesson was *do not obey in advance*. The quieter version, for the
 - C.S. Lewis, "The Humanitarian Theory of Punishment," in *God in the Dock* (1970)
 - Nassim Nicholas Taleb, *Antifragile: Things That Gain from Disorder* (2012)
 - Alfred Adler, on the human needs for belonging and significance.
+{{< /references >}}

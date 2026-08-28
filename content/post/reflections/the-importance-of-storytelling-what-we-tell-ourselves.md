@@ -89,6 +89,8 @@ What matters most may not be the stories we inherit, but the ones we choose to k
 
 ## References
 
+{{< references >}}
 1. Brown, D., 2016. [Happy: Why More or Less Everything is Absolutely Fine](https://www.goodreads.com/book/show/58526027-happy-why-more-or-less-everything-is-absolutely-fine). Random House.
 2. Harari, Y.N., 2018. [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century). Random House.
 3. Harari, Y.N., 2014. [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens). Harvill Secker, London.
+{{< /references >}}

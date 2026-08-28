@@ -54,5 +54,7 @@ Seeing it is the only real freedom on offer. Not freedom from status. That door 
 
 ## References
 
+{{< references >}}
 * [The Status Game by Will Storr on Goodreads](https://www.goodreads.com/book/show/58642436)
 * [Why Zebras Don't Get Ulcers by Robert M. Sapolsky on Goodreads](https://www.goodreads.com/en/book/show/327)
+{{< /references >}}

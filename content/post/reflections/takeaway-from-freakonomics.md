@@ -34,6 +34,8 @@ That is the takeaway I kept. Do not read the goal. Read the incentive, and read 
 
 ## References
 
+{{< references >}}
 1. [Levitt, S.D. and Dubner, S.J., 2008. Freakonomics.](https://en.wikipedia.org/wiki/Freakonomics)
 2. Sowell, T., 2014. Basic Economics: A Common Sense Guide to the Economy. Basic Books.
 3. Hazlitt, H., 2010. Economics in One Lesson. Crown Currency.
+{{< /references >}}

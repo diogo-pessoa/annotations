@@ -86,7 +86,9 @@ The parts will always ask to be optimized one at a time. The systems that lasted
 
 ## References
 
+{{< references >}}
 1. Yegge, S. (2011). *Stevey's Google Platforms Rant.* [online] Available at: https://gist.github.com/chitchcock/1281611 [Accessed 31 Jul. 2026].
 2. Conway, M.E. (1968). *How Do Committees Invent?* Datamation, 14(4), pp.28-31. [online] Available at: https://www.melconway.com/Home/Committees_Paper.html [Accessed 31 Jul. 2026].
 3. Vogels, W. (2021). *Keynote.* AWS re:Invent 2021, Las Vegas, 2 December. Reported in: SiliconANGLE, *Amazon CTO Werner Vogels recalls the past to position AWS and cloud for the future.* [online] Available at: https://siliconangle.com/2021/12/02/amazon-cto-werner-vogels-reaches-recalls-past-position-aws-cloud-future/ [Accessed 31 Jul. 2026].
 4. Pessoa, D. (2026). *A Socket Between a Model and a Capability: Notes on MCP.* [online] Available at: /post/system-architecture/notes-on-mcp/ [Accessed 31 Jul. 2026].
+{{< /references >}}

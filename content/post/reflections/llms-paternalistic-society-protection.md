@@ -66,6 +66,8 @@ A refusal is never neutral. It is a decision about what a society is allowed to 
 
 ## References
 
+{{< references >}}
 1. Global Voices. (2025). *'Let's talk about something else': China's AI chatbot DeepSeek censors sensitive topics.* [globalvoices.org](https://globalvoices.org/2025/02/05/lets-talk-about-something-else-chinas-ai-chatbot-deepseek-censors-sensitive-topics/) Accessed 7 Jan. 2026.
 2. Robertson, A. (2024). *Google apologizes for 'missing the mark' after Gemini generated racially diverse Nazis.* The Verge. [theverge.com](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) Accessed 7 Jan. 2026.
 3. Gigerenzer, G. (2014). *Risk Savvy: How to Make Good Decisions.* [Goodreads](https://www.goodreads.com/book/show/18114056-risk-savvy)
+{{< /references >}}

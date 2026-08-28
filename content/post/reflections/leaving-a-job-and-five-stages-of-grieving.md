@@ -187,7 +187,9 @@ the [regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward
 
 ## References
 
+{{< references >}}
 1. Kubler-Ross, E. and Kessler, D., 2005. On grief and grieving: Finding the meaning of
    grief through the five stages of loss. Simon and Schuster.
 2. Carnegie, D., 1948. How to Stop Worrying and Start Living: Time-Tested Methods for
    Conquering Worry.
+{{< /references >}}

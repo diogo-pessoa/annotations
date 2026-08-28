@@ -56,10 +56,12 @@ Value the question over the answer. Posing the right one is a credit to a scient
 
 ## References
 
+{{< references >}}
 1. [Yanai, I. & Lercher, M. (2019). "What is the question?" *Genome Biology*, 20:289.](https://doi.org/10.1186/s13059-019-1902-1) — found via Tim Ferriss's [5-Bullet Friday](https://go.tim.blog/5-bullet-friday-1/).
 2. Jacob, F. (1988). *The Statue Within: An Autobiography* — origin of the day-science / night-science distinction.
 3. Alon, U. (2009). "How to Choose a Good Scientific Problem." *Molecular Cell*, 35(6) — source of "the cloud."
 4. [Richard Feynman on "why" questions and magnets (YouTube).](https://www.youtube.com/watch?v=36GT2zI8lVA)
+{{< /references >}}
 
 ## Related reading
 

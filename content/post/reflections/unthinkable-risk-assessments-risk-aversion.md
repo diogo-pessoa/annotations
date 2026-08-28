@@ -140,10 +140,12 @@ A curated selection of the highlights I underlined, grouped by theme.
 
 ## References
 
+{{< references >}}
 1. [*The Unthinkable*, Amanda Ripley](https://www.amandaripley.com/the-unthinkable)
 2. [*Skin in the Game*, Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 3. [*Risk Savvy: How to Make Good Decisions*, Gerd Gigerenzer](https://www.goodreads.com/book/show/18114023-risk-savvy)
 4. [Nassim Nicholas Taleb — talk (YouTube)](https://www.youtube.com/watch?v=4P47UTF0tZA)
+{{< /references >}}
 
 ## Related reading
 

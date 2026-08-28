@@ -5,5 +5,3 @@ draft: false
 tags:
   - python
 ---
-
-**Notes to self on Python — idioms, gotchas, and small exercises from the *Diary of a Flawed Pythonista*. Less tutorial, more working memory.**

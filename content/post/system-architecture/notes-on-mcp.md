@@ -111,5 +111,7 @@ MCP is young. The ecosystem around it moves fast enough that some of these edges
 
 ## References
 
+{{< references >}}
 1. Anthropic (2024). *Introduction — Model Context Protocol.* [online] Available at: https://modelcontextprotocol.io/introduction [Accessed 31 Jul. 2026].
 2. JSON-RPC Working Group (2013). *JSON-RPC 2.0 Specification.* [online] Available at: https://www.jsonrpc.org/specification [Accessed 31 Jul. 2026].
+{{< /references >}}

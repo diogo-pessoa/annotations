@@ -83,6 +83,7 @@ None of this is a forecast. History is context, not prophecy. The winters are wo
 
 ## References
 
+{{< references >}}
 1. Emily Forgash and Agnee Ghosh, "OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals," *Bloomberg — The Big Take*, October 7, 2025 (updated October 8, 2025). <https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd>
 2. Andrew Coyle, "The AI Hype Cycle: Boom, Bust, or Breakthrough?"
 3. Stanford HAI, "Expanding Academia's Role in Public Sector AI."
@@ -90,3 +91,4 @@ None of this is a forecast. History is context, not prophecy. The winters are wo
 5. "AI Revolution: Winners & Losers w/ Dan Ives & Gil Luria," YouTube. <https://www.youtube.com/watch?v=SWEzkOMe4tY>
 6. "AI Revenue Just Hit $100 Billion From Zero Two Years Ago," *24/7 Wall St.*, July 30, 2026 — citing Gil Luria on *The Real Eisman Playbook*. <https://247wallst.com/investing/2026/07/30/ai-revenue-just-hit-100-billion-from-zero-two-years-ago-now-wall-streets-warning-of-a-massive-saas-trap/>
 7. Jon Markman, "China's DeepSeek V4 And Qwen Reshape The Open-Source AI Race," *Forbes*, April 28, 2026. <https://www.forbes.com/sites/jonmarkman/2026/04/28/chinas-deepseek-v4-and-qwen-reshape-the-open-source-ai-race/>
+{{< /references >}}

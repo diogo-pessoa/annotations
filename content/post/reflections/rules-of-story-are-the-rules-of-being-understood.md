@@ -74,6 +74,8 @@ Vonnegut wrote rules for fiction and, without saying so, wrote rules for empathy
 
 ## References
 
+{{< references >}}
 1. Vonnegut, K., 1999. *Bagombo Snuff Box* (introduction — "eight rules for writing fiction"). Putnam.
 2. Vonnegut, K., 2005. [A Man Without a Country](https://www.goodreads.com/book/show/9591.A_Man_Without_a_Country). Seven Stories Press.
 3. Feynman, R., 1983. *Fun to Imagine* (BBC). [BBC Archive](https://www.bbc.co.uk/archive/richard-feynman/z6bhd6f/).
+{{< /references >}}

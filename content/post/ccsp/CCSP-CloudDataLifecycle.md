@@ -135,7 +135,7 @@ longer needed.
 * Ensure that any third-party service providers handling data destruction
   adhere to secure practices.
 
-see: [crypto-shredding-cryptographic-erasure](/post/ccsp-datacontrol/#crypto-shredding-cryptographic-erasure)
+see: [crypto-shredding-cryptographic-erasure](/post/ccsp/ccsp-datacontrol/#crypto-shredding-cryptographic-erasure)
 
 
 Cryptographic erasure is a method of data destruction where encryption keys are deleted, rendering

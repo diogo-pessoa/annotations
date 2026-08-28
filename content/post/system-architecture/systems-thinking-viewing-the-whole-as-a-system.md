@@ -120,9 +120,11 @@ The parts will always ask to be fixed one at a time. The system rarely works tha
 
 ## References
 
+{{< references >}}
 * [Fluke by Brian Klaas — reflection](/post/reflections/takeaway-from-fluke/)
 * [Thinking in Systems: A Primer by Donella H. Meadows on Goodreads](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 * [Leverage Points: Places to Intervene in a System by Donella H. Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 * [The Black Swan by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/242472.The_Black_Swan) — part of the *Incerto*
 * [Antifragile by Nassim Nicholas Taleb on Goodreads](https://www.goodreads.com/book/show/13530973-antifragile) — part of the *Incerto*
 * [Risk Savvy: How to Make Good Decisions by Gerd Gigerenzer on Goodreads](https://www.goodreads.com/book/show/21467102-risk-savvy)
+{{< /references >}}
